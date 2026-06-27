@@ -1,0 +1,2415 @@
+{
+  "doc_title": "Cloud Service Agreement",
+  "doc_file": "cloud_service_agreement.md",
+  "tree": {
+    "id": "root",
+    "number": "",
+    "title": "Cloud Service Agreement",
+    "kind": "root",
+    "raw": "",
+    "text": "",
+    "summary": "Cloud Service Agreement — top-level parts: Service, Restrictions & Obligations, Privacy & Security, Payment & Taxes, Term & Termination, Representations & Warranties, Disclaimer of Warranties, Limitation of Liability, Indemnification, Confidentiality, Reservation of Rights, General Terms, Definitions.",
+    "variables_used": [],
+    "cross_refs": [],
+    "children": [
+      {
+        "id": "n1",
+        "number": "1",
+        "title": "Service",
+        "kind": "section",
+        "raw": "",
+        "text": "",
+        "summary": "Provider delivers Technical Support per Order Form specifications and grants Customer internal use of Cloud Service and Software, while Customer maintains account security and Provider may use aggregated Usage Data and de-identified Content for service improvement and ML development.",
+        "variables_used": [],
+        "cross_refs": [],
+        "children": [
+          {
+            "id": "n1.1",
+            "number": "1.1",
+            "title": "Access and Use",
+            "kind": "subsection",
+            "raw": "During the <span class=\"orderform_link\">Subscription Period</span> and subject to the terms of this Agreement, <span class=\"coverpage_link\">Customer</span> may (a) access and use the Cloud Service; and (b) copy and use the included Software and Documentation only as needed to access and use the Cloud Service, in each case, for its internal business purposes. If a <span class=\"coverpage_link\">Customer</span> Affiliate enters a separate Order Form with <span class=\"coverpage_link\">Provider</span>, the <span class=\"coverpage_link\">Customer’s</span> Affiliate creates a separate agreement between <span class=\"coverpage_link\">Provider</span> and that Affiliate, where <span class=\"coverpage_link\">Provider’s</span> responsibility to the Affiliate is individual and separate from <span class=\"coverpage_link\">Customer</span> and <span class=\"coverpage_link\">Customer</span> is not responsible for its Affiliates’ agreement.",
+            "text": "During the Subscription Period and subject to the terms of this Agreement, Customer may (a) access and use the Cloud Service; and (b) copy and use the included Software and Documentation only as needed to access and use the Cloud Service, in each case, for its internal business purposes. If a Customer Affiliate enters a separate Order Form with Provider, the Customer’s Affiliate creates a separate agreement between Provider and that Affiliate, where Provider’s responsibility to the Affiliate is individual and separate from Customer and Customer is not responsible for its Affiliates’ agreement.",
+            "summary": "Customer may access and use the Cloud Service and copy included Software and Documentation for internal business purposes during the Subscription Period; Customer Affiliates require separate Order Forms and agreements.",
+            "variables_used": [
+              "Customer",
+              "Provider",
+              "Subscription Period"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n1.2",
+            "number": "1.2",
+            "title": "Support",
+            "kind": "subsection",
+            "raw": "During the <span class=\"orderform_link\">Subscription Period</span>, <span class=\"coverpage_link\">Provider</span> will provide <span class=\"orderform_link\">Technical Support</span> as described in the Order Form.",
+            "text": "During the Subscription Period, Provider will provide Technical Support as described in the Order Form.",
+            "summary": "Provider must deliver Technical Support during the Subscription Period according to specifications detailed in the Order Form.",
+            "variables_used": [
+              "Provider",
+              "Subscription Period",
+              "Technical Support"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n1.3",
+            "number": "1.3",
+            "title": "User Accounts",
+            "kind": "subsection",
+            "raw": "<span class=\"coverpage_link\">Customer</span> is responsible for all actions on Users’ accounts and for all Users’ compliance with this Agreement. <span class=\"coverpage_link\">Customer</span> and Users must protect the confidentiality of their passwords and login credentials. <span class=\"coverpage_link\">Customer</span> will promptly notify <span class=\"coverpage_link\">Provider</span> if it suspects or knows of any fraudulent activity with its accounts, passwords, or credentials, or if they become compromised.",
+            "text": "Customer is responsible for all actions on Users’ accounts and for all Users’ compliance with this Agreement. Customer and Users must protect the confidentiality of their passwords and login credentials. Customer will promptly notify Provider if it suspects or knows of any fraudulent activity with its accounts, passwords, or credentials, or if they become compromised.",
+            "summary": "Customer bears responsibility for all User account actions and Agreement compliance; Customer and Users must safeguard passwords/credentials and notify Provider promptly of suspected fraud or compromise.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n1.4",
+            "number": "1.4",
+            "title": "Feedback and Usage Data",
+            "kind": "subsection",
+            "raw": "<span class=\"coverpage_link\">Customer</span> may, but is not required to, give <span class=\"coverpage_link\">Provider</span> Feedback, in which case <span class=\"coverpage_link\">Customer</span> gives Feedback \"AS IS\". <span class=\"coverpage_link\">Provider</span> may use all Feedback freely without any restriction or obligation. In addition, <span class=\"coverpage_link\">Provider</span> may collect and analyze Usage Data, and <span class=\"coverpage_link\">Provider</span> may freely use Usage Data to maintain, improve, enhance, and promote <span class=\"coverpage_link\">Provider’s</span> products and services without restriction or obligation. However, <span class=\"coverpage_link\">Provider</span> may only disclose Usage Data to others if the Usage Data is aggregated and does not identify <span class=\"coverpage_link\">Customer</span> or Users.",
+            "text": "Customer may, but is not required to, give Provider Feedback, in which case Customer gives Feedback \"AS IS\". Provider may use all Feedback freely without any restriction or obligation. In addition, Provider may collect and analyze Usage Data, and Provider may freely use Usage Data to maintain, improve, enhance, and promote Provider’s products and services without restriction or obligation. However, Provider may only disclose Usage Data to others if the Usage Data is aggregated and does not identify Customer or Users.",
+            "summary": "Provider may freely use Customer Feedback and collect/analyze Usage Data to maintain and improve services, but may only disclose Usage Data if aggregated and non-identifying.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n1.5",
+            "number": "1.5",
+            "title": "Customer Content",
+            "kind": "subsection",
+            "raw": "<span class=\"coverpage_link\">Provider</span> may copy, display, modify, and use Customer Content only as needed to provide and maintain the Product and related offerings. <span class=\"coverpage_link\">Customer</span> is responsible for the accuracy and content of Customer Content.",
+            "text": "Provider may copy, display, modify, and use Customer Content only as needed to provide and maintain the Product and related offerings. Customer is responsible for the accuracy and content of Customer Content.",
+            "summary": "Provider may copy, display, modify, and use Customer Content solely to provide and maintain the Product; Customer bears responsibility for accuracy and legality of Customer Content.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n1.6",
+            "number": "1.6",
+            "title": "Machine Learning",
+            "kind": "subsection",
+            "raw": "Usage Data and Customer Content may be used to develop, train, or enhance artificial intelligence or machine learning models that are part of <span class=\"coverpage_link\">Provider’s</span> products and services, including third-party components of the Product, and <span class=\"coverpage_link\">Customer</span> authorizes <span class=\"coverpage_link\">Provider</span> to process its Usage Data and Customer Content for such purposes. However, (a) Usage Data and Customer Content must be aggregated before it can be used for these purposes, and (b) <span class=\"coverpage_link\">Provider</span> will use commercially reasonable efforts consistent with industry standard technology to de-identify Usage Data and Customer Content before such use. Nothing in this section will reduce or limit <span class=\"coverpage_link\">Provider’s</span> obligations regarding Personal Data that may be contained in Usage Data or Customer Content under Applicable Data Protection Laws. Due to the nature of artificial intelligence and machine learning, information generated by these features may be incorrect or inaccurate. Product features that include artificial intelligence or machine learning models are not human and are not a substitute for human oversight.",
+            "text": "Usage Data and Customer Content may be used to develop, train, or enhance artificial intelligence or machine learning models that are part of Provider’s products and services, including third-party components of the Product, and Customer authorizes Provider to process its Usage Data and Customer Content for such purposes. However, (a) Usage Data and Customer Content must be aggregated before it can be used for these purposes, and (b) Provider will use commercially reasonable efforts consistent with industry standard technology to de-identify Usage Data and Customer Content before such use. Nothing in this section will reduce or limit Provider’s obligations regarding Personal Data that may be contained in Usage Data or Customer Content under Applicable Data Protection Laws. Due to the nature of artificial intelligence and machine learning, information generated by these features may be incorrect or inaccurate. Product features that include artificial intelligence or machine learning models are not human and are not a substitute for human oversight.",
+            "summary": "Provider may use aggregated and de-identified Usage Data and Customer Content to develop AI/ML models, subject to de-identification requirements and compliance with Applicable Data Protection Laws regarding Personal Data.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n2",
+        "number": "2",
+        "title": "Restrictions & Obligations",
+        "kind": "section",
+        "raw": "",
+        "text": "",
+        "summary": "Customer is prohibited from reverse engineering, sublicensing, modifying, and competitive use of the Product; Provider may suspend access for breaches of these restrictions or unpaid invoices exceeding 30 days.",
+        "variables_used": [],
+        "cross_refs": [],
+        "children": [
+          {
+            "id": "n2.1",
+            "number": "2.1",
+            "title": "Restrictions on Customer",
+            "kind": "subsection",
+            "raw": "a. Except as expressly permitted by this Agreement, <span class=\"coverpage_link\">Customer</span> will not (and will not allow anyone else to): (i) reverse engineer, decompile, or attempt to discover any source code or underlying ideas or algorithms of the Product (except to the extent Applicable Laws prohibit this restriction); (ii) provide, sell, transfer, sublicense, lend, distribute, rent, or otherwise allow others to access or use the Product; (iii) remove any proprietary notices or labels; (iv) copy, modify, or create derivative works of the Product; (v) conduct security or vulnerability tests on, interfere with the operation of, cause performance degradation of, or circumvent access restrictions of the Product; (vi) access accounts, information, data, or portions of the Product to which <span class=\"coverpage_link\">Customer</span> does not have explicit authorization; (vii) use the Product to develop a competing service or product; (viii) use the Product with any High Risk Activities or with any activity prohibited by Applicable Laws; (ix) use the Product to obtain unauthorized access to anyone else’s networks or equipment; or (x) upload, submit, or otherwise make available to the Product any Customer Content to which <span class=\"coverpage_link\">Customer</span> and Users do not have the proper rights.\n        b. Use of the Product must comply with all Documentation and <span class=\"orderform_link\">Use Limitations</span>.",
+            "text": "a. Except as expressly permitted by this Agreement, Customer will not (and will not allow anyone else to): (i) reverse engineer, decompile, or attempt to discover any source code or underlying ideas or algorithms of the Product (except to the extent Applicable Laws prohibit this restriction); (ii) provide, sell, transfer, sublicense, lend, distribute, rent, or otherwise allow others to access or use the Product; (iii) remove any proprietary notices or labels; (iv) copy, modify, or create derivative works of the Product; (v) conduct security or vulnerability tests on, interfere with the operation of, cause performance degradation of, or circumvent access restrictions of the Product; (vi) access accounts, information, data, or portions of the Product to which Customer does not have explicit authorization; (vii) use the Product to develop a competing service or product; (viii) use the Product with any High Risk Activities or with any activity prohibited by Applicable Laws; (ix) use the Product to obtain unauthorized access to anyone else’s networks or equipment; or (x) upload, submit, or otherwise make available to the Product any Customer Content to which Customer and Users do not have the proper rights.\nb. Use of the Product must comply with all Documentation and Use Limitations.",
+            "summary": "Customer is prohibited from reverse engineering, sublicensing, modifying, security testing, unauthorized access, competitive use, high-risk activities, and uploading unlicensed content, with use subject to Documentation and Use Limitations.",
+            "variables_used": [
+              "Customer",
+              "Use Limitations"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n2.2",
+            "number": "2.2",
+            "title": "Suspension",
+            "kind": "subsection",
+            "raw": "If <span class=\"coverpage_link\">Customer</span> (a) has an outstanding, undisputed balance on its account for more than 30 days; (b) breaches Section 2.1 (Restrictions on Customer); or (c) uses the Product in violation of the Agreement or in a way that materially and negatively impacts the Product or others, then <span class=\"coverpage_link\">Provider</span> may temporarily suspend <span class=\"coverpage_link\">Customer’s</span> access to the Product with or without notice. However, <span class=\"coverpage_link\">Provider</span> will try to inform <span class=\"coverpage_link\">Customer</span> before suspending <span class=\"coverpage_link\">Customer’s</span> account when practical. <span class=\"coverpage_link\">Provider</span> will reinstate <span class=\"coverpage_link\">Customer’s</span> access to the Product only if <span class=\"coverpage_link\">Customer</span> resolves the underlying issue.",
+            "text": "If Customer (a) has an outstanding, undisputed balance on its account for more than 30 days; (b) breaches Section 2.1 (Restrictions on Customer); or (c) uses the Product in violation of the Agreement or in a way that materially and negatively impacts the Product or others, then Provider may temporarily suspend Customer’s access to the Product with or without notice. However, Provider will try to inform Customer before suspending Customer’s account when practical. Provider will reinstate Customer’s access to the Product only if Customer resolves the underlying issue.",
+            "summary": "Provider may suspend Customer's access to the Product for unpaid invoices over 30 days, breach of Section 2.1 restrictions, or misuse; reinstatement requires resolving the underlying issue.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [
+              "2.1"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n3",
+        "number": "3",
+        "title": "Privacy & Security",
+        "kind": "section",
+        "raw": "",
+        "text": "",
+        "summary": "Customer must execute a DPA before submitting GDPR-governed Personal Data and cannot submit Prohibited Data unless expressly authorized in Order Form or Key Terms.",
+        "variables_used": [],
+        "cross_refs": [],
+        "children": [
+          {
+            "id": "n3.1",
+            "number": "3.1",
+            "title": "Personal Data",
+            "kind": "subsection",
+            "raw": "Before submitting Personal Data governed by GDPR, <span class=\"coverpage_link\">Customer</span> must enter into a data processing agreement with <span class=\"coverpage_link\">Provider</span>. If the parties have a <span class=\"keyterms_link\">DPA</span>, each party will comply with its obligations in the <span class=\"keyterms_link\">DPA</span>, the terms of the <span class=\"keyterms_link\">DPA</span> will control each party’s rights and obligations as to Personal Data, and the terms of the <span class=\"keyterms_link\">DPA</span> will control in the event of any conflict with this Agreement.",
+            "text": "Before submitting Personal Data governed by GDPR, Customer must enter into a data processing agreement with Provider. If the parties have a DPA, each party will comply with its obligations in the DPA, the terms of the DPA will control each party’s rights and obligations as to Personal Data, and the terms of the DPA will control in the event of any conflict with this Agreement.",
+            "summary": "Customer must execute a data processing agreement with Provider before submitting GDPR-governed Personal Data; DPA terms control rights, obligations, and conflicts regarding Personal Data.",
+            "variables_used": [
+              "Customer",
+              "DPA",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n3.2",
+            "number": "3.2",
+            "title": "Prohibited Data",
+            "kind": "subsection",
+            "raw": "<span class=\"coverpage_link\">Customer</span> will not (and will not allow anyone else to) submit Prohibited Data to the Product unless authorized by the Order Form or Key Terms.",
+            "text": "Customer will not (and will not allow anyone else to) submit Prohibited Data to the Product unless authorized by the Order Form or Key Terms.",
+            "summary": "Customer is prohibited from submitting Prohibited Data to the Product except where specifically authorized in the Order Form or Key Terms.",
+            "variables_used": [
+              "Customer"
+            ],
+            "cross_refs": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n4",
+        "number": "4",
+        "title": "Payment & Taxes",
+        "kind": "section",
+        "raw": "",
+        "text": "",
+        "summary": "Provider bills Customer for Fees (usage-based in arrears, others in advance) in USD exclusive of taxes; Customer pays all invoiced amounts plus taxes via Payment Process, with non-refundable Fees except prorated prepaid amounts upon termination, and must dispute in good faith within 30 days.",
+        "variables_used": [],
+        "cross_refs": [],
+        "children": [
+          {
+            "id": "n4.1",
+            "number": "4.1",
+            "title": "Fees",
+            "kind": "subsection",
+            "raw": "Unless the Order Form specifies a different currency, all Fees are in U.S. Dollars and are exclusive of taxes. Except for the prorated refund of prepaid Fees allowed with specific termination rights given in the Agreement, Fees are non-refundable.",
+            "text": "Unless the Order Form specifies a different currency, all Fees are in U.S. Dollars and are exclusive of taxes. Except for the prorated refund of prepaid Fees allowed with specific termination rights given in the Agreement, Fees are non-refundable.",
+            "summary": "Fees are denominated in USD, exclusive of taxes, and non-refundable except for prorated prepaid amounts upon termination under specified Agreement provisions.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n4.2",
+            "number": "4.2",
+            "title": "Invoicing",
+            "kind": "subsection",
+            "raw": "For a <span class=\"orderform_link\">Payment Process</span> with invoicing, <span class=\"coverpage_link\">Provider</span> will send invoices for usage-based Fees in arrears and for all other Fees in advance, in each case according to the <span class=\"orderform_link\">Payment Process</span>.",
+            "text": "For a Payment Process with invoicing, Provider will send invoices for usage-based Fees in arrears and for all other Fees in advance, in each case according to the Payment Process.",
+            "summary": "Provider must invoice for usage-based Fees in arrears and all other Fees in advance, following the Payment Process procedures.",
+            "variables_used": [
+              "Payment Process",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n4.3",
+            "number": "4.3",
+            "title": "Automatic Payment",
+            "kind": "subsection",
+            "raw": "For a <span class=\"orderform_link\">Payment Process</span> with automatic payment, <span class=\"coverpage_link\">Provider</span> will automatically charge the credit card, debit card, or other payment method on file for Fees according to the <span class=\"orderform_link\">Payment Process</span> and <span class=\"coverpage_link\">Customer</span> authorizes all such charges. In this case, <span class=\"coverpage_link\">Provider</span> will make a copy of <span class=\"coverpage_link\">Customer’s</span> bills or transaction history available to <span class=\"coverpage_link\">Customer</span>.",
+            "text": "For a Payment Process with automatic payment, Provider will automatically charge the credit card, debit card, or other payment method on file for Fees according to the Payment Process and Customer authorizes all such charges. In this case, Provider will make a copy of Customer’s bills or transaction history available to Customer.",
+            "summary": "Provider automatically charges Customer's payment method on file for Fees per the Payment Process, with Customer authorization and Provider's obligation to provide billing records.",
+            "variables_used": [
+              "Customer",
+              "Payment Process",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n4.4",
+            "number": "4.4",
+            "title": "Taxes",
+            "kind": "subsection",
+            "raw": "<span class=\"coverpage_link\">Customer</span> is responsible for all duties, taxes, and levies that apply to Fees, including sales, use, VAT, GST, or withholding, that <span class=\"coverpage_link\">Provider</span> itemizes and includes in an invoice. However, <span class=\"coverpage_link\">Customer</span> is not responsible for <span class=\"coverpage_link\">Provider’s</span> income taxes.",
+            "text": "Customer is responsible for all duties, taxes, and levies that apply to Fees, including sales, use, VAT, GST, or withholding, that Provider itemizes and includes in an invoice. However, Customer is not responsible for Provider’s income taxes.",
+            "summary": "Customer must pay all duties, taxes, and levies on Fees that Provider invoices, excluding Provider's income taxes.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n4.5",
+            "number": "4.5",
+            "title": "Payment",
+            "kind": "subsection",
+            "raw": "<span class=\"coverpage_link\">Customer</span> will pay <span class=\"coverpage_link\">Provider</span> Fees and taxes in U.S. Dollars, unless the Order Form specifies a different currency, according to the <span class=\"orderform_link\">Payment Process</span>.",
+            "text": "Customer will pay Provider Fees and taxes in U.S. Dollars, unless the Order Form specifies a different currency, according to the Payment Process.",
+            "summary": "Customer must pay Provider Fees and applicable taxes in U.S. Dollars (or alternate currency if specified in Order Form) using the Payment Process.",
+            "variables_used": [
+              "Customer",
+              "Payment Process",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n4.6",
+            "number": "4.6",
+            "title": "Payment Dispute",
+            "kind": "subsection",
+            "raw": "If <span class=\"coverpage_link\">Customer</span> has a good-faith disagreement about the Fees charged or invoiced, <span class=\"coverpage_link\">Customer</span> must notify <span class=\"coverpage_link\">Provider</span> about the dispute before payment is due, or within 30 days of an automatic payment, and must pay all undisputed amounts on time. The parties will work together to resolve the dispute within 15 days. If no resolution is agreed, each party may pursue any remedies available under the Agreement or Applicable Laws.",
+            "text": "If Customer has a good-faith disagreement about the Fees charged or invoiced, Customer must notify Provider about the dispute before payment is due, or within 30 days of an automatic payment, and must pay all undisputed amounts on time. The parties will work together to resolve the dispute within 15 days. If no resolution is agreed, each party may pursue any remedies available under the Agreement or Applicable Laws.",
+            "summary": "Customer must notify Provider of good-faith fee disputes before payment due or within 30 days post-automatic payment, pay undisputed amounts timely, and the parties will attempt resolution within 15 days before pursuing other remedies.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n5",
+        "number": "5",
+        "title": "Term & Termination",
+        "kind": "section",
+        "raw": "",
+        "text": "",
+        "summary": "This clause establishes automatic renewal of Subscription Periods with opt-out rights, immediate termination rights for material breach or insolvency, Force Majeure termination with prorated refunds, and cascading termination effects including Product access loss and Content deletion within 60 days.",
+        "variables_used": [],
+        "cross_refs": [],
+        "children": [
+          {
+            "id": "n5.1",
+            "number": "5.1",
+            "title": "Order Form and Agreement",
+            "kind": "subsection",
+            "raw": "For each Order Form, the Agreement will start on the <span class=\"orderform_link\">Order Date</span>, continue through the <span class=\"orderform_link\">Subscription Period</span>, and automatically renew for additional <span class=\"orderform_link\">Subscription Periods</span> unless one party gives notice of non-renewal to the other party before the <span class=\"orderform_link\">Non-Renewal Notice Date</span>.",
+            "text": "For each Order Form, the Agreement will start on the Order Date, continue through the Subscription Period, and automatically renew for additional Subscription Periods unless one party gives notice of non-renewal to the other party before the Non-Renewal Notice Date.",
+            "summary": "Agreement term commences on Order Date, runs through each Subscription Period, and auto-renews unless either party provides non-renewal notice before the Non-Renewal Notice Date.",
+            "variables_used": [
+              "Non-Renewal Notice Date",
+              "Order Date",
+              "Subscription Period",
+              "Subscription Periods"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n5.2",
+            "number": "5.2",
+            "title": "Framework Terms",
+            "kind": "subsection",
+            "raw": "These Framework Terms will start on the <span class=\"keyterms_link\">Effective Date</span> and continue for the longer of one year or until all Order Forms governed by the Framework Terms have ended.",
+            "text": "These Framework Terms will start on the Effective Date and continue for the longer of one year or until all Order Forms governed by the Framework Terms have ended.",
+            "summary": "Framework Terms commence on the Effective Date and continue for the longer of one year or until all governed Order Forms terminate.",
+            "variables_used": [
+              "Effective Date"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n5.3",
+            "number": "5.3",
+            "title": "Termination",
+            "kind": "subsection",
+            "raw": "Either party may terminate the Framework Terms or an Order Form immediately:\n        a. <span id=\"5.3.a\">if</span> the other party fails to cure a material breach of the Framework Terms or an Order Form following 30 days notice;\n        b. <span id=\"5.3.b\">upon</span> notice if the other party (i) materially breaches the Framework Terms or an Order Form in a manner that cannot be cured; (ii) dissolves or stops conducting business without a successor; (iii) makes an assignment for the benefit of creditors; or (iv) becomes the debtor in insolvency, receivership, or bankruptcy proceedings that continue for more than 60 days.",
+            "text": "Either party may terminate the Framework Terms or an Order Form immediately:\na. if the other party fails to cure a material breach of the Framework Terms or an Order Form following 30 days notice;\nb. upon notice if the other party (i) materially breaches the Framework Terms or an Order Form in a manner that cannot be cured; (ii) dissolves or stops conducting business without a successor; (iii) makes an assignment for the benefit of creditors; or (iv) becomes the debtor in insolvency, receivership, or bankruptcy proceedings that continue for more than 60 days.",
+            "summary": "Either party may immediately terminate the Framework Terms or Order Form for material breach (with 30-day cure period) or insolvency/dissolution of the other party.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n5.4",
+            "number": "5.4",
+            "title": "Force Majeure",
+            "kind": "subsection",
+            "raw": "Either party may terminate an affected Order Form upon notice if a Force Majeure Event prevents the Product from materially operating for 30 or more consecutive days. <span class=\"coverpage_link\">Provider</span> will pay to <span class=\"coverpage_link\">Customer</span> a prorated refund of any prepaid Fees for the remainder of the <span class=\"orderform_link\">Subscription Period</span>. A Force Majeure Event does not excuse <span class=\"coverpage_link\">Customer’s</span> obligation to pay Fees accrued prior to termination.",
+            "text": "Either party may terminate an affected Order Form upon notice if a Force Majeure Event prevents the Product from materially operating for 30 or more consecutive days. Provider will pay to Customer a prorated refund of any prepaid Fees for the remainder of the Subscription Period. A Force Majeure Event does not excuse Customer’s obligation to pay Fees accrued prior to termination.",
+            "summary": "Either party may terminate an Order Form if Force Majeure prevents the Product from materially operating 30+ consecutive days; Provider refunds prepaid Fees prorated to termination, but Customer remains liable for accrued Fees.",
+            "variables_used": [
+              "Customer",
+              "Provider",
+              "Subscription Period"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n5.5",
+            "number": "5.5",
+            "title": "Effect of Termination",
+            "kind": "subsection",
+            "raw": "Termination of the Framework Terms will automatically terminate all Order Forms governed by the Framework Terms. Upon any expiration or termination:\n        a. <span class=\"coverpage_link\" id=\"5.5.a\">Customer</span> will no longer have any right to use the Product.\n        b. Upon <span class=\"coverpage_link\" id=\"5.5.b\">Customer’s</span> request, <span class=\"coverpage_link\">Provider</span> will delete Customer Content within 60 days.\n        c. <span id=\"5.5.c\">Each</span> Recipient will return or destroy Discloser’s Confidential Information in its possession or control.\n        d. <span class=\"coverpage_link\" id=\"5.5.d\">Provider</span> will submit a final bill or invoice for all outstanding Fees accrued before termination and <span class=\"coverpage_link\">Customer</span> will pay the invoice according to Section 4 (Payment & Taxes).",
+            "text": "Termination of the Framework Terms will automatically terminate all Order Forms governed by the Framework Terms. Upon any expiration or termination:\na. Customer will no longer have any right to use the Product.\nb. Upon Customer’s request, Provider will delete Customer Content within 60 days.\nc. Each Recipient will return or destroy Discloser’s Confidential Information in its possession or control.\nd. Provider will submit a final bill or invoice for all outstanding Fees accrued before termination and Customer will pay the invoice according to Section 4 (Payment & Taxes).",
+            "summary": "Upon termination of Framework Terms, all Order Forms terminate automatically; Customer loses Product access, Provider deletes Customer Content within 60 days upon request, Recipients return/destroy Confidential Information, and Provider bills Customer for accrued Fees per Section 4.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [
+              "4"
+            ],
+            "children": []
+          },
+          {
+            "id": "n5.6",
+            "number": "5.6",
+            "title": "Survival",
+            "kind": "subsection",
+            "raw": "a. <span id=\"5.6.a\">The</span> following sections will survive expiration or termination of the Agreement: Section 1.4 (Feedback and Usage Data), Section 1.6 (Machine Learning), Section 2.1 (Restrictions on Customer), Section 4 (Payment & Taxes) for Fees accrued or payable before expiration or termination, Section 5.5 (Effect of Termination), Section 5.6 (Survival), Section 6 (Representations & Warranties), Section 7 (Disclaimer of Warranties), Section 8 (Limitation of Liability), Section 9 (Indemnification), Section 10 (Confidentiality), Section 11 (Reservation of Rights), Section 12 (General Terms), Section 13 (Definitions), and the portions of a Cover Page referenced by these sections.\n        b. <span id=\"5.4.b\">Each</span> Recipient may retain Discloser’s Confidential Information in accordance with its standard backup or record retention policies maintained in the ordinary course of business or as required by Applicable Laws, in which case Section 3 (Privacy & Security) and Section 10 (Confidentiality) will continue to apply to retained Confidential Information.",
+            "text": "a. The following sections will survive expiration or termination of the Agreement: Section 1.4 (Feedback and Usage Data), Section 1.6 (Machine Learning), Section 2.1 (Restrictions on Customer), Section 4 (Payment & Taxes) for Fees accrued or payable before expiration or termination, Section 5.5 (Effect of Termination), Section 5.6 (Survival), Section 6 (Representations & Warranties), Section 7 (Disclaimer of Warranties), Section 8 (Limitation of Liability), Section 9 (Indemnification), Section 10 (Confidentiality), Section 11 (Reservation of Rights), Section 12 (General Terms), Section 13 (Definitions), and the portions of a Cover Page referenced by these sections.\nb. Each Recipient may retain Discloser’s Confidential Information in accordance with its standard backup or record retention policies maintained in the ordinary course of business or as required by Applicable Laws, in which case Section 3 (Privacy & Security) and Section 10 (Confidentiality) will continue to apply to retained Confidential Information.",
+            "summary": "Specifies which Agreement sections survive termination and permits Recipients to retain Confidential Information per backup/retention policies while maintaining confidentiality obligations.",
+            "variables_used": [],
+            "cross_refs": [
+              "1.4",
+              "1.6",
+              "2.1",
+              "3",
+              "4",
+              "5.5",
+              "6",
+              "7",
+              "8",
+              "9",
+              "10",
+              "11",
+              "12",
+              "13"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n6",
+        "number": "6",
+        "title": "Representations & Warranties",
+        "kind": "section",
+        "raw": "",
+        "text": "",
+        "summary": "Each party represents legal authority and organizational standing; Customer warrants User rights to submit content; Provider warrants Cloud Service functionality won't materially reduce and must restore it within 45 days or face termination and prorated refund.",
+        "variables_used": [],
+        "cross_refs": [],
+        "children": [
+          {
+            "id": "n6.1",
+            "number": "6.1",
+            "title": "Mutual",
+            "kind": "subsection",
+            "raw": "Each party represents and warrants to the other that: (a) it has the legal power and authority to enter into this Agreement; (b) it is duly organized, validly existing, and in good standing under the Applicable Laws of the jurisdiction of its origin; (c) it will comply with all Applicable Laws in performing its obligations or exercising its rights in this Agreement; and (d) it will comply with the <span class=\"keyterms_link\">Additional Warranties</span>.",
+            "text": "Each party represents and warrants to the other that: (a) it has the legal power and authority to enter into this Agreement; (b) it is duly organized, validly existing, and in good standing under the Applicable Laws of the jurisdiction of its origin; (c) it will comply with all Applicable Laws in performing its obligations or exercising its rights in this Agreement; and (d) it will comply with the Additional Warranties.",
+            "summary": "Each party represents and warrants its legal authority to enter the Agreement, valid organizational status, compliance with Applicable Laws, and adherence to Additional Warranties.",
+            "variables_used": [
+              "Additional Warranties"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n6.2",
+            "number": "6.2",
+            "title": "From Customer",
+            "kind": "subsection",
+            "raw": "<span class=\"coverpage_link\">Customer</span> represents and warrants that it, all Users, and anyone submitting Customer Content each have and will continue to have all rights necessary to submit or make available Customer Content to the Product and to allow the use of Customer Content as described in the Agreement.",
+            "text": "Customer represents and warrants that it, all Users, and anyone submitting Customer Content each have and will continue to have all rights necessary to submit or make available Customer Content to the Product and to allow the use of Customer Content as described in the Agreement.",
+            "summary": "Customer warrants that it and all Users possess all necessary rights to submit Customer Content to the Product and permit its use as described in the Agreement.",
+            "variables_used": [
+              "Customer"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n6.3",
+            "number": "6.3",
+            "title": "From Provider",
+            "kind": "subsection",
+            "raw": "<span class=\"coverpage_link\">Provider</span> represents and warrants to <span class=\"coverpage_link\">Customer</span> that it will not materially reduce the general functionality of the Cloud Service during the <span class=\"orderform_link\">Subscription Period</span>.",
+            "text": "Provider represents and warrants to Customer that it will not materially reduce the general functionality of the Cloud Service during the Subscription Period.",
+            "summary": "Provider warrants it will not materially reduce Cloud Service general functionality during the Subscription Period.",
+            "variables_used": [
+              "Customer",
+              "Provider",
+              "Subscription Period"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n6.4",
+            "number": "6.4",
+            "title": "Provider Warranty Remedy",
+            "kind": "subsection",
+            "raw": "If <span class=\"coverpage_link\">Provider</span> breaches the warranty in Section 6.3 (Representations & Warranties from Provider), <span class=\"coverpage_link\">Customer</span> must give <span class=\"coverpage_link\">Provider</span> notice (with enough detail for <span class=\"coverpage_link\">Provider</span> to understand or replicate the issue) within 45 days of discovering the issue. Within 45 days of receiving sufficient details of the warranty issue, <span class=\"coverpage_link\">Provider</span> will attempt to restore the general functionality of the Cloud Service. If <span class=\"coverpage_link\">Provider</span> cannot resolve the issue, <span class=\"coverpage_link\">Customer</span> may terminate the affected Order Form and <span class=\"coverpage_link\">Provider</span> will pay to <span class=\"coverpage_link\">Customer</span> a prorated refund of prepaid Fees for the remainder of the <span class=\"orderform_link\">Subscription Period</span>. <span class=\"coverpage_link\">Provider’s</span> restoration obligation, and <span class=\"coverpage_link\">Customer’s</span> termination right, are <span class=\"coverpage_link\">Customer’s</span> only remedies if <span class=\"coverpage_link\">Provider</span> does not meet the warranty in Section 6.3 (Representations & Warranties from Provider).",
+            "text": "If Provider breaches the warranty in Section 6.3 (Representations & Warranties from Provider), Customer must give Provider notice (with enough detail for Provider to understand or replicate the issue) within 45 days of discovering the issue. Within 45 days of receiving sufficient details of the warranty issue, Provider will attempt to restore the general functionality of the Cloud Service. If Provider cannot resolve the issue, Customer may terminate the affected Order Form and Provider will pay to Customer a prorated refund of prepaid Fees for the remainder of the Subscription Period. Provider’s restoration obligation, and Customer’s termination right, are Customer’s only remedies if Provider does not meet the warranty in Section 6.3 (Representations & Warranties from Provider).",
+            "summary": "Provider must restore Cloud Service functionality within 45 days of receiving notice of a Section 6.3 warranty breach, or Customer may terminate the affected Order Form and receive a prorated refund—these remedies are exclusive.",
+            "variables_used": [
+              "Customer",
+              "Provider",
+              "Subscription Period"
+            ],
+            "cross_refs": [
+              "6.3"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n7",
+        "number": "7",
+        "title": "Disclaimer of Warranties",
+        "kind": "section",
+        "raw": "",
+        "text": "",
+        "summary": "Provider disclaims all implied warranties except express warranties in Section 6, excluding liability for merchantability, fitness, misuse, unauthorized modifications, and third-party products.",
+        "variables_used": [],
+        "cross_refs": [],
+        "children": [
+          {
+            "id": "n7.1",
+            "number": "7.1",
+            "title": "",
+            "kind": "subsection",
+            "raw": "<span class=\"coverpage_link\" id=\"7.1\">Provider</span> makes no guarantees that the Product will always be safe, secure, or error-free, or that it will function without disruptions, delays, or imperfections. The warranties in Section 6 (Representations & Warranties) do not apply to any misuse or unauthorized modification of the Product, nor to any product or service provided by anyone other than <span class=\"coverpage_link\">Provider</span>. Except for the warranties in Section 6 (Representations & Warranties), <span class=\"coverpage_link\">Provider</span> and <span class=\"coverpage_link\">Customer</span> each **disclaim all other warranties and conditions, whether express or implied, including the implied warranties and conditions of merchantability, fitness for a particular purpose, title, and non-infringement. These disclaimers apply to the maximum extent permitted by Applicable Laws**.",
+            "text": "Provider makes no guarantees that the Product will always be safe, secure, or error-free, or that it will function without disruptions, delays, or imperfections. The warranties in Section 6 (Representations & Warranties) do not apply to any misuse or unauthorized modification of the Product, nor to any product or service provided by anyone other than Provider. Except for the warranties in Section 6 (Representations & Warranties), Provider and Customer each disclaim all other warranties and conditions, whether express or implied, including the implied warranties and conditions of merchantability, fitness for a particular purpose, title, and non-infringement. These disclaimers apply to the maximum extent permitted by Applicable Laws.",
+            "summary": "Provider disclaims all warranties except those in Section 6, including merchantability and fitness for particular purpose, and excludes liability for misuse, unauthorized modifications, and third-party products.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [
+              "6"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n8",
+        "number": "8",
+        "title": "Limitation of Liability",
+        "kind": "section",
+        "raw": "",
+        "text": "",
+        "summary": "Both parties' liability is capped at General Cap Amount (or Increased Cap Amount for Increased Claims) and damages for lost profits, consequential, and punitive damages are waived, except for Unlimited Claims and Confidentiality breaches.",
+        "variables_used": [],
+        "cross_refs": [],
+        "children": [
+          {
+            "id": "n8.1",
+            "number": "8.1",
+            "title": "Liability Caps",
+            "kind": "subsection",
+            "raw": "a. **<span id=\"8.1.a\">Except</span> as provided in Section 8.4 (Exceptions), each party’s total cumulative liability for all claims arising out of or relating to this Agreement will not be more than the <span class=\"keyterms_link\">General Cap Amount</span>.**\n        b. **<span id=\"8.1.b\">If</span> there are <span class=\"keyterms_link\">Increased Claims</span>, each party’s total cumulative liability for all <span class=\"keyterms_link\">Increased Claims</span> arising out of or relating to this Agreement will not be more than the <span class=\"keyterms_link\">Increased Cap Amount</span>.**",
+            "text": "a. Except as provided in Section 8.4 (Exceptions), each party’s total cumulative liability for all claims arising out of or relating to this Agreement will not be more than the General Cap Amount.\nb. If there are Increased Claims, each party’s total cumulative liability for all Increased Claims arising out of or relating to this Agreement will not be more than the Increased Cap Amount.",
+            "summary": "Each party's liability for all Agreement-related claims is capped at the General Cap Amount, or the Increased Cap Amount if Increased Claims occur, except as provided in Section 8.4.",
+            "variables_used": [
+              "General Cap Amount",
+              "Increased Cap Amount",
+              "Increased Claims"
+            ],
+            "cross_refs": [
+              "8.4"
+            ],
+            "children": []
+          },
+          {
+            "id": "n8.2",
+            "number": "8.2",
+            "title": "Damages Waiver",
+            "kind": "subsection",
+            "raw": "**Except as provided in Section 8.4 (Exceptions), under no circumstances will either party be liable to the other for lost profits or revenues (whether direct or indirect), or for consequential, special, indirect, exemplary, punitive, or incidental damages relating to this Agreement, even if the party is informed of the possibility of this type of damage in advance.**",
+            "text": "Except as provided in Section 8.4 (Exceptions), under no circumstances will either party be liable to the other for lost profits or revenues (whether direct or indirect), or for consequential, special, indirect, exemplary, punitive, or incidental damages relating to this Agreement, even if the party is informed of the possibility of this type of damage in advance.",
+            "summary": "Both parties waive claims for lost profits, consequential, special, indirect, exemplary, punitive, and incidental damages under this Agreement, subject to exceptions in Section 8.4.",
+            "variables_used": [],
+            "cross_refs": [
+              "8.4"
+            ],
+            "children": []
+          },
+          {
+            "id": "n8.3",
+            "number": "8.3",
+            "title": "Applicability",
+            "kind": "subsection",
+            "raw": "**The limitations and waivers contained in Sections 8.1 (Liability Caps) and 8.2 (Damages Waiver) apply to all liability, whether in tort (including negligence), contract, breach of statutory duty, or otherwise.**",
+            "text": "The limitations and waivers contained in Sections 8.1 (Liability Caps) and 8.2 (Damages Waiver) apply to all liability, whether in tort (including negligence), contract, breach of statutory duty, or otherwise.",
+            "summary": "Section 8.3 clarifies that the liability caps and damages waivers in §§ 8.1–8.2 apply broadly to all liability claims regardless of legal theory.",
+            "variables_used": [],
+            "cross_refs": [
+              "8.1",
+              "8.2"
+            ],
+            "children": []
+          },
+          {
+            "id": "n8.4",
+            "number": "8.4",
+            "title": "Exceptions",
+            "kind": "subsection",
+            "raw": "The liability cap in Section 8.1(a) does not apply to any <span class=\"keyterms_link\">Increased Claims</span>. Section 8.1 (Liability Caps) does not apply to any <span class=\"keyterms_link\">Unlimited Claims</span>. Section 8.2 (Damages Waiver) does not apply to any <span class=\"keyterms_link\">Increased Claims</span> or a breach of Section 10 (Confidentiality). Nothing in this Agreement will limit, exclude, or restrict a party's liability to the extent prohibited by Applicable Laws.",
+            "text": "The liability cap in Section 8.1(a) does not apply to any Increased Claims. Section 8.1 (Liability Caps) does not apply to any Unlimited Claims. Section 8.2 (Damages Waiver) does not apply to any Increased Claims or a breach of Section 10 (Confidentiality). Nothing in this Agreement will limit, exclude, or restrict a party's liability to the extent prohibited by Applicable Laws.",
+            "summary": "Section 8.1(a) liability caps exclude Increased Claims; Section 8.1 excludes Unlimited Claims; Section 8.2 damages waiver excludes Increased Claims and Section 10 Confidentiality breaches; statutory liability limits are preserved.",
+            "variables_used": [
+              "Increased Claims",
+              "Unlimited Claims"
+            ],
+            "cross_refs": [
+              "8.1",
+              "8.2",
+              "10"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n9",
+        "number": "9",
+        "title": "Indemnification",
+        "kind": "section",
+        "raw": "",
+        "text": "",
+        "summary": "Provider indemnifies Customer against third-party Provider Covered Claims while Customer indemnifies Provider against third-party Customer Covered Claims, each subject to prompt notice, cooperation, sole defense control, and exclusions for unauthorized modifications or misuse under §§ 9.1–9.5.",
+        "variables_used": [],
+        "cross_refs": [],
+        "children": [
+          {
+            "id": "n9.1",
+            "number": "9.1",
+            "title": "Protection by Provider",
+            "kind": "subsection",
+            "raw": "<span class=\"coverpage_link\">Provider</span> will indemnify, defend, and hold harmless <span class=\"coverpage_link\">Customer</span> from and against all <span class=\"keyterms_link\">Provider Covered Claims</span> made by someone other than <span class=\"coverpage_link\">Customer</span>, <span class=\"coverpage_link\">Customer’s</span> Affiliates, or Users, and all out-of-pocket damages, awards, settlements, costs, and expenses, including reasonable attorneys’ fees and other legal expenses, that arise from the <span class=\"keyterms_link\">Provider Covered Claims</span>.",
+            "text": "Provider will indemnify, defend, and hold harmless Customer from and against all Provider Covered Claims made by someone other than Customer, Customer’s Affiliates, or Users, and all out-of-pocket damages, awards, settlements, costs, and expenses, including reasonable attorneys’ fees and other legal expenses, that arise from the Provider Covered Claims.",
+            "summary": "Provider indemnifies Customer against third-party Provider Covered Claims and associated damages, excluding claims by Customer, its Affiliates, or Users.",
+            "variables_used": [
+              "Customer",
+              "Provider",
+              "Provider Covered Claims"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n9.2",
+            "number": "9.2",
+            "title": "Protection by Customer",
+            "kind": "subsection",
+            "raw": "<span class=\"coverpage_link\">Customer</span> will indemnify, defend, and hold harmless <span class=\"coverpage_link\">Provider</span> from and against all <span class=\"keyterms_link\">Customer Covered Claims</span> made by someone other than <span class=\"coverpage_link\">Provider</span> or its Affiliates, and all out-of-pocket damages, awards, settlements, costs, and expenses, including reasonable attorneys’ fees and other legal expenses, that arise from the <span class=\"keyterms_link\">Customer Covered Claims</span>.",
+            "text": "Customer will indemnify, defend, and hold harmless Provider from and against all Customer Covered Claims made by someone other than Provider or its Affiliates, and all out-of-pocket damages, awards, settlements, costs, and expenses, including reasonable attorneys’ fees and other legal expenses, that arise from the Customer Covered Claims.",
+            "summary": "Customer indemnifies and defends Provider against third-party Customer Covered Claims, including damages, settlements, and reasonable attorneys' fees.",
+            "variables_used": [
+              "Customer",
+              "Customer Covered Claims",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n9.3",
+            "number": "9.3",
+            "title": "Procedure",
+            "kind": "subsection",
+            "raw": "The Indemnifying Party’s obligations in this section are contingent upon the Protected Party: (a) promptly notifying the Indemnifying Party of each Covered Claim for which it seeks protection; (b) providing reasonable assistance to the Indemnifying Party at the Indemnifying Party’s expense; and (c) giving the Indemnifying Party sole control over the defense and settlement of each Covered Claim. A Protected Party may participate in a Covered Claim for which it seeks protection with its own attorneys only at its own expense. The Indemnifying Party may not agree to any settlement of a Covered Claim that contains an admission of fault or otherwise materially and adversely impacts the Protected Party without the prior written consent of the Protected Party.",
+            "text": "The Indemnifying Party’s obligations in this section are contingent upon the Protected Party: (a) promptly notifying the Indemnifying Party of each Covered Claim for which it seeks protection; (b) providing reasonable assistance to the Indemnifying Party at the Indemnifying Party’s expense; and (c) giving the Indemnifying Party sole control over the defense and settlement of each Covered Claim. A Protected Party may participate in a Covered Claim for which it seeks protection with its own attorneys only at its own expense. The Indemnifying Party may not agree to any settlement of a Covered Claim that contains an admission of fault or otherwise materially and adversely impacts the Protected Party without the prior written consent of the Protected Party.",
+            "summary": "Indemnifying Party's indemnification obligations under § 9.3 are contingent on Protected Party's prompt notice of Covered Claims, reasonable cooperation, and granting sole defense control to Indemnifying Party, subject to restrictions on settlements affecting Protected Party's interests.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n9.4",
+            "number": "9.4",
+            "title": "Changes to Product",
+            "kind": "subsection",
+            "raw": "If required by settlement or court order, or if deemed reasonably necessary in response to a <span class=\"keyterms_link\">Provider Covered Claim</span>, <span class=\"coverpage_link\">Provider</span> may: (a) obtain the right for <span class=\"coverpage_link\">Customer</span> to continue using the Product; (b) replace or modify the affected component of the Product without materially reducing the general functionality of the Product; or (c) if neither (a) nor (b) are reasonable, terminate the affected Order Form and issue a pro-rated refund of prepaid Fees for the remainder of the <span class=\"orderform_link\">Subscription Period</span>.",
+            "text": "If required by settlement or court order, or if deemed reasonably necessary in response to a Provider Covered Claim, Provider may: (a) obtain the right for Customer to continue using the Product; (b) replace or modify the affected component of the Product without materially reducing the general functionality of the Product; or (c) if neither (a) nor (b) are reasonable, terminate the affected Order Form and issue a pro-rated refund of prepaid Fees for the remainder of the Subscription Period.",
+            "summary": "Provider may modify, replace, or discontinue Product components (with refund) if required by settlement, court order, or Provider Covered Claim, provided general functionality is preserved.",
+            "variables_used": [
+              "Customer",
+              "Provider",
+              "Provider Covered Claim",
+              "Subscription Period"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n9.5",
+            "number": "9.5",
+            "title": "Exclusions",
+            "kind": "subsection",
+            "raw": "a. <span class=\"coverpage_link\" id=\"9.5.a\">Provider’s</span> obligations as an Indemnifying Party will not apply to <span class=\"keyterms_link\">Provider Covered Claims</span> that result from (i) modifications to the Product that were not authorized by Provider or that were made in compliance with <span class=\"coverpage_link\">Customer’s</span> instructions; (ii) unauthorized use of the Product, including use in violation of this Agreement; (iii) use of the Product in combination with items not provided by <span class=\"coverpage_link\">Provider</span>; or (iv) use of an old version of the Product where a newer release would avoid the <span class=\"keyterms_link\">Provider Covered Claim</span>.\n        b. <span class=\"coverpage_link\" id=\"9.5.b\">Customer’s</span> obligations as an Indemnifying Party will not apply to <span class=\"keyterms_link\">Customer Covered Claims</span> that result from the unauthorized use of the Customer Content, including use in violation of this Agreement.",
+            "text": "a. Provider’s obligations as an Indemnifying Party will not apply to Provider Covered Claims that result from (i) modifications to the Product that were not authorized by Provider or that were made in compliance with Customer’s instructions; (ii) unauthorized use of the Product, including use in violation of this Agreement; (iii) use of the Product in combination with items not provided by Provider; or (iv) use of an old version of the Product where a newer release would avoid the Provider Covered Claim.\nb. Customer’s obligations as an Indemnifying Party will not apply to Customer Covered Claims that result from the unauthorized use of the Customer Content, including use in violation of this Agreement.",
+            "summary": "Provider and Customer's indemnification obligations under § 9.5 exclude claims arising from unauthorized modifications, misuse, incompatible combinations, outdated versions, or unauthorized content use.",
+            "variables_used": [
+              "Customer",
+              "Customer Covered Claims",
+              "Provider",
+              "Provider Covered Claim",
+              "Provider Covered Claims"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n9.6",
+            "number": "9.6",
+            "title": "Exclusive Remedy",
+            "kind": "subsection",
+            "raw": "This Section 9 (Indemnification), together with any termination rights, describes each Protected Party’s exclusive remedy and each Indemnifying Party’s entire liability for a Covered Claim.",
+            "text": "This Section 9 (Indemnification), together with any termination rights, describes each Protected Party’s exclusive remedy and each Indemnifying Party’s entire liability for a Covered Claim.",
+            "summary": "Section 9 (Indemnification) and termination rights provide the exclusive remedy and limit each Indemnifying Party's total liability for Covered Claims against Protected Parties.",
+            "variables_used": [],
+            "cross_refs": [
+              "9"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n10",
+        "number": "10",
+        "title": "Confidentiality",
+        "kind": "section",
+        "raw": "",
+        "text": "",
+        "summary": "Recipient must maintain confidentiality of Discloser's information except for authorized uses, legally required disclosures with notice, and pre-existing or independently developed information, while remaining liable for third-party compliance under § 10.4.",
+        "variables_used": [],
+        "cross_refs": [],
+        "children": [
+          {
+            "id": "n10.1",
+            "number": "10.1",
+            "title": "Non-Use and Non-Disclosure",
+            "kind": "subsection",
+            "raw": "Except as otherwise authorized in the Agreement or as needed to fulfill its obligations or exercise its rights under this Agreement, Recipient will not (a) use Discloser’s Confidential Information; nor (b) disclose Discloser’s Confidential Information to anyone else. In addition, Recipient will protect Discloser’s Confidential Information using at least the same protections Recipient uses for its own similar information but no less than a reasonable standard of care.",
+            "text": "Except as otherwise authorized in the Agreement or as needed to fulfill its obligations or exercise its rights under this Agreement, Recipient will not (a) use Discloser’s Confidential Information; nor (b) disclose Discloser’s Confidential Information to anyone else. In addition, Recipient will protect Discloser’s Confidential Information using at least the same protections Recipient uses for its own similar information but no less than a reasonable standard of care.",
+            "summary": "Recipient must not use or disclose Discloser's Confidential Information except as authorized or necessary to perform Agreement obligations, and must protect it with reasonable care.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n10.2",
+            "number": "10.2",
+            "title": "Exclusions",
+            "kind": "subsection",
+            "raw": "Confidential Information does not include information that (a) Recipient knew without any obligation of confidentiality before disclosure by Discloser; (b) is or becomes publicly known and generally available through no fault of Recipient; (c) Recipient receives under no obligation of confidentiality from someone else who is authorized to make the disclosure; or (d) Recipient independently developed without use of or reference to Discloser’s Confidential Information.",
+            "text": "Confidential Information does not include information that (a) Recipient knew without any obligation of confidentiality before disclosure by Discloser; (b) is or becomes publicly known and generally available through no fault of Recipient; (c) Recipient receives under no obligation of confidentiality from someone else who is authorized to make the disclosure; or (d) Recipient independently developed without use of or reference to Discloser’s Confidential Information.",
+            "summary": "This clause exempts information from Confidential Information protection if Recipient possessed it pre-disclosure without confidentiality obligations, it became public through no Recipient fault, Recipient received it from an authorized third party without confidentiality restrictions, or Recipient independently developed it.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n10.3",
+            "number": "10.3",
+            "title": "Required Disclosures",
+            "kind": "subsection",
+            "raw": "Recipient may disclose Discloser’s Confidential Information to the extent required by Applicable Laws if, unless prohibited by Applicable Laws, Recipient provides Discloser reasonable advance notice of the required disclosure and reasonably cooperates, at Discloser’s expense, with Discloser’s efforts to obtain confidential treatment for the Confidential Information.",
+            "text": "Recipient may disclose Discloser’s Confidential Information to the extent required by Applicable Laws if, unless prohibited by Applicable Laws, Recipient provides Discloser reasonable advance notice of the required disclosure and reasonably cooperates, at Discloser’s expense, with Discloser’s efforts to obtain confidential treatment for the Confidential Information.",
+            "summary": "Recipient may disclose Confidential Information when legally required, but must provide Discloser advance notice and cooperate (at Discloser's expense) in seeking protective orders, unless law prohibits such notice.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n10.4",
+            "number": "10.4",
+            "title": "Permitted Disclosures",
+            "kind": "subsection",
+            "raw": "Recipient may disclose Discloser’s Confidential Information to Users, employees, advisors, contractors, and representatives who each have a need to know the Confidential Information, but only if the person or entity is bound by confidentiality obligations at least as protective as those in this Section 10 (Confidentiality) and Recipient remains responsible for everyone’s compliance with the terms of this Section 10 (Confidentiality).",
+            "text": "Recipient may disclose Discloser’s Confidential Information to Users, employees, advisors, contractors, and representatives who each have a need to know the Confidential Information, but only if the person or entity is bound by confidentiality obligations at least as protective as those in this Section 10 (Confidentiality) and Recipient remains responsible for everyone’s compliance with the terms of this Section 10 (Confidentiality).",
+            "summary": "Recipient may disclose Confidential Information to specified categories of personnel and service providers only if they are bound by equivalent confidentiality obligations and Recipient remains liable for their compliance with Section 10.",
+            "variables_used": [],
+            "cross_refs": [
+              "10"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n11",
+        "number": "11",
+        "title": "Reservation of Rights",
+        "kind": "section",
+        "raw": "",
+        "text": "",
+        "summary": "Provider reserves all Product intellectual property rights except Customer's limited rights under Sections 1.5 and 1.6; Customer retains all rights in Customer Content.",
+        "variables_used": [],
+        "cross_refs": [],
+        "children": [
+          {
+            "id": "n11.1",
+            "number": "11.1",
+            "title": "",
+            "kind": "subsection",
+            "raw": "<span id=\"11.1\">Except</span> for the limited license to copy and use Software and Documentation in Section 1.1 (Access and Use), <span class=\"coverpage_link\">Provider</span> retains all right, title, and interest in and to the Product, whether developed before or after the <span class=\"keyterms_link\">Effective Date</span>. Except for the limited rights in Section 1.5 (Customer Content) and 1.6 (Machine Learning), <span class=\"coverpage_link\">Customer</span> retains all right, title, and interest in and to the Customer Content.",
+            "text": "Except for the limited license to copy and use Software and Documentation in Section 1.1 (Access and Use), Provider retains all right, title, and interest in and to the Product, whether developed before or after the Effective Date. Except for the limited rights in Section 1.5 (Customer Content) and 1.6 (Machine Learning), Customer retains all right, title, and interest in and to the Customer Content.",
+            "summary": "Provider retains all intellectual property rights in the Product except for Customer's limited rights under Sections 1.5 and 1.6; Customer retains all rights in Customer Content.",
+            "variables_used": [
+              "Customer",
+              "Effective Date",
+              "Provider"
+            ],
+            "cross_refs": [
+              "1.1",
+              "1.5",
+              "1.6"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n12",
+        "number": "12",
+        "title": "General Terms",
+        "kind": "section",
+        "raw": "",
+        "text": "",
+        "summary": "§ 12 establishes general contract administration provisions including entire agreement, modification/waiver procedures, governing law and jurisdiction (Chosen Courts), remedies, assignment restrictions, notice requirements, independent contractor status, and special terms for Beta Products, export controls, and government procurement.",
+        "variables_used": [],
+        "cross_refs": [],
+        "children": [
+          {
+            "id": "n12.1",
+            "number": "12.1",
+            "title": "Entire Agreement",
+            "kind": "subsection",
+            "raw": "This Agreement is the only agreement between the parties about its subject and this Agreement supersedes all prior or contemporaneous statements (whether in writing or not) about its subject. <span class=\"coverpage_link\">Provider</span> expressly rejects any terms included in <span class=\"coverpage_link\">Customer’s</span> purchase order or similar document, which may only be used for accounting or administrative purposes. No terms or conditions in any <span class=\"coverpage_link\">Customer</span> documentation or online vendor portal will apply to <span class=\"coverpage_link\">Customer’s</span> use of the Product unless expressly agreed to in a legally binding written agreement signed by an authorized <span class=\"coverpage_link\">Provider</span> representative, regardless of what such terms may say.",
+            "text": "This Agreement is the only agreement between the parties about its subject and this Agreement supersedes all prior or contemporaneous statements (whether in writing or not) about its subject. Provider expressly rejects any terms included in Customer’s purchase order or similar document, which may only be used for accounting or administrative purposes. No terms or conditions in any Customer documentation or online vendor portal will apply to Customer’s use of the Product unless expressly agreed to in a legally binding written agreement signed by an authorized Provider representative, regardless of what such terms may say.",
+            "summary": "This Agreement constitutes the parties' entire agreement on its subject matter and supersedes all prior statements; Provider rejects Customer purchase order terms unless expressly incorporated in a signed written agreement by authorized Provider representative.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n12.2",
+            "number": "12.2",
+            "title": "Modifications, Severability, and Waiver",
+            "kind": "subsection",
+            "raw": "Any waiver, modification, or change to the Agreement must be in writing and signed or electronically accepted by each party. If any term of this Agreement is determined to be invalid or unenforceable by a relevant court or governing body, the remaining terms of this Agreement will remain in full force and effect. The failure of a party to enforce a term or to exercise an option or right in this Agreement will not constitute a waiver by that party of the term, option, or right.",
+            "text": "Any waiver, modification, or change to the Agreement must be in writing and signed or electronically accepted by each party. If any term of this Agreement is determined to be invalid or unenforceable by a relevant court or governing body, the remaining terms of this Agreement will remain in full force and effect. The failure of a party to enforce a term or to exercise an option or right in this Agreement will not constitute a waiver by that party of the term, option, or right.",
+            "summary": "Requires written, signed modifications to the Agreement; preserves remaining terms if any provision is invalidated; reserves parties' rights to enforce despite prior non-enforcement.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n12.3",
+            "number": "12.3",
+            "title": "Governing Law and Chosen Courts",
+            "kind": "subsection",
+            "raw": "The <span class=\"keyterms_link\">Governing Law</span> will govern all interpretations and disputes about this Agreement, without regard to its conflict of laws provisions. The parties will bring any legal suit, action, or proceeding about this Agreement in the <span class=\"keyterms_link\">Chosen Courts</span> and each party irrevocably submits to the exclusive jurisdiction of the <span class=\"keyterms_link\">Chosen Courts</span>.",
+            "text": "The Governing Law will govern all interpretations and disputes about this Agreement, without regard to its conflict of laws provisions. The parties will bring any legal suit, action, or proceeding about this Agreement in the Chosen Courts and each party irrevocably submits to the exclusive jurisdiction of the Chosen Courts.",
+            "summary": "Agreement's interpretation and disputes are governed by the Governing Law; both parties irrevocably submit to exclusive jurisdiction of the Chosen Courts for all legal proceedings.",
+            "variables_used": [
+              "Chosen Courts",
+              "Governing Law"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n12.4",
+            "number": "12.4",
+            "title": "Injunctive Relief",
+            "kind": "subsection",
+            "raw": "Despite Section 12.3 (Governing Law and Chosen Courts), a breach of Section 10 (Confidentiality) or the violation of a party’s intellectual property rights may cause irreparable harm for which monetary damages cannot adequately compensate. As a result, upon the actual or threatened breach of Section 10 (Confidentiality) or violation of a party’s intellectual property rights, the non-breaching or non-violating party may seek appropriate equitable relief, including an injunction, in any court of competent jurisdiction without the need to post a bond and without limiting its other rights or remedies.",
+            "text": "Despite Section 12.3 (Governing Law and Chosen Courts), a breach of Section 10 (Confidentiality) or the violation of a party’s intellectual property rights may cause irreparable harm for which monetary damages cannot adequately compensate. As a result, upon the actual or threatened breach of Section 10 (Confidentiality) or violation of a party’s intellectual property rights, the non-breaching or non-violating party may seek appropriate equitable relief, including an injunction, in any court of competent jurisdiction without the need to post a bond and without limiting its other rights or remedies.",
+            "summary": "Either party may seek injunctive relief in any competent court for breaches of Section 10 (Confidentiality) or intellectual property violations, without posting bond or exhausting other remedies.",
+            "variables_used": [],
+            "cross_refs": [
+              "10",
+              "12.3"
+            ],
+            "children": []
+          },
+          {
+            "id": "n12.5",
+            "number": "12.5",
+            "title": "Non-Exhaustive Remedies",
+            "kind": "subsection",
+            "raw": "Except where the Agreement provides for an exclusive remedy, seeking or exercising a remedy does not limit the other rights or remedies available to a party.",
+            "text": "Except where the Agreement provides for an exclusive remedy, seeking or exercising a remedy does not limit the other rights or remedies available to a party.",
+            "summary": "Permits either party to pursue multiple remedies unless the Agreement explicitly designates one remedy as exclusive and precludes others.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n12.6",
+            "number": "12.6",
+            "title": "Assignment",
+            "kind": "subsection",
+            "raw": "Neither party may assign any rights or obligations under this Agreement without the prior written consent of the other party. However, either party may assign this Agreement upon notice if the assigning party undergoes a merger, change of control, reorganization, or sale of all or substantially all its equity, business, or assets to which this Agreement relates. Any attempted but non-permitted assignment is void. This Agreement will be binding upon and inure to the benefit of the parties and their permitted successors and assigns.",
+            "text": "Neither party may assign any rights or obligations under this Agreement without the prior written consent of the other party. However, either party may assign this Agreement upon notice if the assigning party undergoes a merger, change of control, reorganization, or sale of all or substantially all its equity, business, or assets to which this Agreement relates. Any attempted but non-permitted assignment is void. This Agreement will be binding upon and inure to the benefit of the parties and their permitted successors and assigns.",
+            "summary": "Parties are prohibited from assigning rights or obligations without written consent, except either party may assign upon notice in connection with merger, change of control, reorganization, or asset sale; unpermitted assignments are void.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n12.7",
+            "number": "12.7",
+            "title": "Beta Products",
+            "kind": "subsection",
+            "raw": "If <span class=\"coverpage_link\">Provider</span> gives <span class=\"coverpage_link\">Customer</span> access to a Beta Product, the Beta Product is provided \"AS IS\" and Section 6.3 (Representations & Warranty From Provider) does not apply to any Beta Products. <span class=\"coverpage_link\">Customer</span> acknowledges that Beta Products are experimental in nature and may be modified or removed at <span class=\"coverpage_link\">Provider’s</span> discretion with or without notice.",
+            "text": "If Provider gives Customer access to a Beta Product, the Beta Product is provided \"AS IS\" and Section 6.3 (Representations & Warranty From Provider) does not apply to any Beta Products. Customer acknowledges that Beta Products are experimental in nature and may be modified or removed at Provider’s discretion with or without notice.",
+            "summary": "Provider may offer Beta Products \"as is\" without Section 6.3 representations, and may modify or discontinue them without notice; Customer acknowledges their experimental nature.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [
+              "6.3"
+            ],
+            "children": []
+          },
+          {
+            "id": "n12.8",
+            "number": "12.8",
+            "title": "Logo Rights",
+            "kind": "subsection",
+            "raw": "<span class=\"coverpage_link\">Provider</span> may identify <span class=\"coverpage_link\">Customer</span> and use <span class=\"coverpage_link\">Customer’s</span> name and logo in marketing to identify <span class=\"coverpage_link\">Customer</span> as a user of <span class=\"coverpage_link\">Provider’s</span> products and services.",
+            "text": "Provider may identify Customer and use Customer’s name and logo in marketing to identify Customer as a user of Provider’s products and services.",
+            "summary": "Provider may use Customer's name and logo in marketing materials to identify Customer as a user of Provider's products and services.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n12.9",
+            "number": "12.9",
+            "title": "Notices",
+            "kind": "subsection",
+            "raw": "Any notice, request, or approval about the Agreement must be in writing and sent to the Notice Address. Notices will be deemed given (a) upon confirmed delivery if by email, registered or certified mail, or personal delivery; or (b) two days after mailing if by overnight commercial delivery.",
+            "text": "Any notice, request, or approval about the Agreement must be in writing and sent to the Notice Address. Notices will be deemed given (a) upon confirmed delivery if by email, registered or certified mail, or personal delivery; or (b) two days after mailing if by overnight commercial delivery.",
+            "summary": "Parties must deliver written notices to specified Notice Addresses via email, certified mail, personal delivery, or overnight courier, with effectiveness determined by delivery method.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n12.10",
+            "number": "12.10",
+            "title": "Independent Contractors",
+            "kind": "subsection",
+            "raw": "The parties are independent contractors, not agents, partners, or joint venturers. Neither party is authorized to bind the other to any liability or obligation.",
+            "text": "The parties are independent contractors, not agents, partners, or joint venturers. Neither party is authorized to bind the other to any liability or obligation.",
+            "summary": "Establishes that the parties are independent contractors with no authority to bind each other to liabilities or obligations, and disclaims agency, partnership, or joint venture relationships.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n12.11",
+            "number": "12.11",
+            "title": "No Third-Party Beneficiary",
+            "kind": "subsection",
+            "raw": "There are no third-party beneficiaries of this Agreement.",
+            "text": "There are no third-party beneficiaries of this Agreement.",
+            "summary": "This clause establishes that no third parties may enforce rights or claim benefits under the Agreement, limiting enforcement to the parties themselves.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n12.12",
+            "number": "12.12",
+            "title": "Force Majeure",
+            "kind": "subsection",
+            "raw": "Neither party will be liable for a delay or failure to perform its obligations of this Agreement if caused by a Force Majeure Event. However, this section does not excuse <span class=\"coverpage_link\">Customer’s</span> obligations to pay Fees.",
+            "text": "Neither party will be liable for a delay or failure to perform its obligations of this Agreement if caused by a Force Majeure Event. However, this section does not excuse Customer’s obligations to pay Fees.",
+            "summary": "Party excuses non-performance for delays or failures caused by Force Majeure Events, except Customer remains obligated to pay Fees regardless.",
+            "variables_used": [
+              "Customer"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n12.13",
+            "number": "12.13",
+            "title": "Export Controls",
+            "kind": "subsection",
+            "raw": "<span class=\"coverpage_link\">Customer</span> may not remove or export from the United States or allow the export or re-export of the Product or any related technology or materials in violation of any restrictions, laws, or regulations of the United States Department of Commerce, OFAC, or any other United States or foreign agency or authority. <span class=\"coverpage_link\">Customer</span> represents and warrants that it is not (a) a resident or national of an Embargoed Country; (b) an entity organized under the laws of an Embargoed Country; (c) designated on any list of prohibited, restricted, or sanctioned parties maintained by the U.S. government or agencies or other applicable governments or agencies, including OFAC’s Specially Designated Nationals and Blocked Persons List and the UN Security Council Consolidated List; nor (d) 50% or more owned by any party designated on any of the above lists. <span class=\"coverpage_link\">Provider</span> may terminate this Agreement immediately without notice or liability to comply, as determined in <span class=\"coverpage_link\">Provider’s</span> sole discretion, with applicable export controls and sanctions laws and regulations.",
+            "text": "Customer may not remove or export from the United States or allow the export or re-export of the Product or any related technology or materials in violation of any restrictions, laws, or regulations of the United States Department of Commerce, OFAC, or any other United States or foreign agency or authority. Customer represents and warrants that it is not (a) a resident or national of an Embargoed Country; (b) an entity organized under the laws of an Embargoed Country; (c) designated on any list of prohibited, restricted, or sanctioned parties maintained by the U.S. government or agencies or other applicable governments or agencies, including OFAC’s Specially Designated Nationals and Blocked Persons List and the UN Security Council Consolidated List; nor (d) 50% or more owned by any party designated on any of the above lists. Provider may terminate this Agreement immediately without notice or liability to comply, as determined in Provider’s sole discretion, with applicable export controls and sanctions laws and regulations.",
+            "summary": "Customer must not export the Product or related technology in violation of U.S. export controls, sanctions, or OFAC regulations, and represents it is not a resident of an Embargoed Country or on any prohibited parties list; Provider may immediately terminate if Customer violates these restrictions.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n12.14",
+            "number": "12.14",
+            "title": "Government Rights",
+            "kind": "subsection",
+            "raw": "The Cloud Service and Software are deemed \"commercial items\" or \"commercial computer software\" according to FAR section 12.212 and DFAR section 227.7202, and the Documentation is \"commercial computer software documentation\" according to DFAR section 252.227-7014(a)(1) and (5). Any use, modification, reproduction, release, performance, display, or disclosure of the Product by the U.S. Government will be governed solely by the terms of this Agreement and all other use is prohibited.",
+            "text": "The Cloud Service and Software are deemed \"commercial items\" or \"commercial computer software\" according to FAR section 12.212 and DFAR section 227.7202, and the Documentation is \"commercial computer software documentation\" according to DFAR section 252.227-7014(a)(1) and (5). Any use, modification, reproduction, release, performance, display, or disclosure of the Product by the U.S. Government will be governed solely by the terms of this Agreement and all other use is prohibited.",
+            "summary": "Classifies Product as commercial items under FAR/DFAR; restricts U.S. Government use to Agreement terms only, prohibiting all other government use.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n12.15",
+            "number": "12.15",
+            "title": "Anti-Bribery",
+            "kind": "subsection",
+            "raw": "Neither party will take any action that would be a violation of any Applicable Laws that prohibit the offering, giving, promising to offer or give, or receiving, directly or indirectly, money or anything of value to any third party to assist <span class=\"coverpage_link\">Provider</span> or <span class=\"coverpage_link\">Customer</span> in retaining or obtaining business. Examples of these kinds of laws include the U.S. Foreign Corrupt Practices Act and the UK Bribery Act 2010.",
+            "text": "Neither party will take any action that would be a violation of any Applicable Laws that prohibit the offering, giving, promising to offer or give, or receiving, directly or indirectly, money or anything of value to any third party to assist Provider or Customer in retaining or obtaining business. Examples of these kinds of laws include the U.S. Foreign Corrupt Practices Act and the UK Bribery Act 2010.",
+            "summary": "Both parties must comply with anti-bribery laws including the Foreign Corrupt Practices Act and UK Bribery Act 2010, prohibiting offers or payments to third parties to retain or obtain business.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n12.16",
+            "number": "12.16",
+            "title": "Titles and Interpretation",
+            "kind": "subsection",
+            "raw": "Section titles are for convenience and reference only. All uses of \"including\" and similar phrases are non-exhaustive and without limitation. The United Nations Convention for the International Sale of Goods and the Uniform Computer Information Transaction Act do not apply to this Agreement.",
+            "text": "Section titles are for convenience and reference only. All uses of \"including\" and similar phrases are non-exhaustive and without limitation. The United Nations Convention for the International Sale of Goods and the Uniform Computer Information Transaction Act do not apply to this Agreement.",
+            "summary": "Section titles are non-binding organizational aids; \"including\" means non-exhaustive; CISG and UCITA are expressly excluded from governing this Agreement.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n12.17",
+            "number": "12.17",
+            "title": "Signature",
+            "kind": "subsection",
+            "raw": "This Agreement may be signed in counterparts, including by electronic copies or acceptance mechanism. Each copy will be deemed an original and all copies, when taken together, will be the same agreement.",
+            "text": "This Agreement may be signed in counterparts, including by electronic copies or acceptance mechanism. Each copy will be deemed an original and all copies, when taken together, will be the same agreement.",
+            "summary": "Permits execution of this Agreement in multiple counterparts via electronic means, with each counterpart deemed an original forming one unified agreement.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "n13",
+        "number": "13",
+        "title": "Definitions",
+        "kind": "section",
+        "raw": "",
+        "text": "",
+        "summary": "§ 13 provides binding definitions of key Agreement terms (Affiliate, Cloud Service, Confidential Information, Applicable Laws, Fees, etc.) that establish the scope and meaning of obligations throughout the contract.",
+        "variables_used": [],
+        "cross_refs": [],
+        "children": [
+          {
+            "id": "n13.1",
+            "number": "13.1",
+            "title": "Defining Variables",
+            "kind": "subsection",
+            "raw": "Variables have the meanings or descriptions given on a Cover Page. However, if the Order Form and the governing Framework Terms omit or do not define a Variable, the default meaning will be \"none\" or \"not applicable\" and the correlating clause, sentence, or section does not apply to that Agreement.",
+            "text": "Variables have the meanings or descriptions given on a Cover Page. However, if the Order Form and the governing Framework Terms omit or do not define a Variable, the default meaning will be \"none\" or \"not applicable\" and the correlating clause, sentence, or section does not apply to that Agreement.",
+            "summary": "§ 13.1 defines Variables according to the Cover Page, and establishes \"none\" or \"not applicable\" as default meanings when Order Form or Framework Terms omit definitions.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.2",
+            "number": "13.2",
+            "title": "Affiliate",
+            "kind": "definition",
+            "raw": "<span id=\"13.2\">**\"Affiliate\"**</span> means an entity that, directly or indirectly, controls, is under the control of, or is under common control with a party, where control means having more than fifty percent (50%) of the voting stock or other ownership interest.",
+            "text": "\"Affiliate\" means an entity that, directly or indirectly, controls, is under the control of, or is under common control with a party, where control means having more than fifty percent (50%) of the voting stock or other ownership interest.",
+            "summary": "Defines \"Affiliate\" as an entity with direct or indirect control exceeding 50% voting stock or ownership interest, controlling or controlled by a party.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.3",
+            "number": "13.3",
+            "title": "Agreement",
+            "kind": "definition",
+            "raw": "<span id=\"13.3\">**\"Agreement\"**</span> means the Order Form between <span class=\"coverpage_link\">Provider</span> and <span class=\"coverpage_link\">Customer</span> as governed by the Framework Terms.",
+            "text": "\"Agreement\" means the Order Form between Provider and Customer as governed by the Framework Terms.",
+            "summary": "\"Agreement\" is defined as the Order Form between Provider and Customer, governed by the Framework Terms.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.4",
+            "number": "13.4",
+            "title": "Applicable Data Protection Laws",
+            "kind": "definition",
+            "raw": "<span id=\"13.4\">**\"Applicable Data Protection Laws\"**</span> means the Applicable Laws that govern how the Cloud Service may process or use an individual’s personal information, personal data, personally identifiable information, or other similar term.",
+            "text": "\"Applicable Data Protection Laws\" means the Applicable Laws that govern how the Cloud Service may process or use an individual’s personal information, personal data, personally identifiable information, or other similar term.",
+            "summary": "This clause defines \"Applicable Data Protection Laws\" as laws governing personal information processing in Cloud Service operations, incorporating referenced \"Applicable Laws\" by reference.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.5",
+            "number": "13.5",
+            "title": "Applicable Laws",
+            "kind": "definition",
+            "raw": "<span id=\"13.5\">**\"Applicable Laws\"**</span> means the laws, rules, regulations, court orders, and other binding requirements of a relevant government authority that apply to or govern <span class=\"coverpage_link\">Provider</span> or <span class=\"coverpage_link\">Customer</span>.",
+            "text": "\"Applicable Laws\" means the laws, rules, regulations, court orders, and other binding requirements of a relevant government authority that apply to or govern Provider or Customer.",
+            "summary": "Defines \"Applicable Laws\" as laws, regulations, court orders, and binding requirements from relevant government authorities governing Provider or Customer.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.6",
+            "number": "13.6",
+            "title": "Beta Product",
+            "kind": "definition",
+            "raw": "<span id=\"13.6\">**\"Beta Product\"**</span> means an early or prerelease feature or version of the Product that is identified as beta or similar, or a version of the Product that is not generally available.",
+            "text": "\"Beta Product\" means an early or prerelease feature or version of the Product that is identified as beta or similar, or a version of the Product that is not generally available.",
+            "summary": "Defines \"Beta Product\" as early-stage or prerelease features/versions identified as beta or unavailable to the general public.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.7",
+            "number": "13.7",
+            "title": "Cloud Service",
+            "kind": "definition",
+            "raw": "<span id=\"13.7\">**\"Cloud Service\"**</span> means the product described in the Order Form.",
+            "text": "\"Cloud Service\" means the product described in the Order Form.",
+            "summary": "Defines \"Cloud Service\" as the specific product identified in the Order Form, establishing the scope of services subject to the agreement.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.8",
+            "number": "13.8",
+            "title": "Confidential Information",
+            "kind": "definition",
+            "raw": "<span id=\"13.8\">**\"Confidential Information\"**</span> means information in any form disclosed by or on behalf of a Discloser, including before the <span class=\"keyterms_link\">Effective Date</span>, to a Recipient in connection with this Agreement that (a) the Discloser identifies as \"confidential\", \"proprietary\", or the like; or (b) should be reasonably understood as confidential or proprietary due to its nature and the circumstances of its disclosure. Confidential Information includes the existence of this Agreement and the information on each Cover Page. <span class=\"coverpage_link\">Customer’s</span> Confidential Information includes non-public Customer Content and <span class=\"coverpage_link\">Provider’s</span> Confidential Information includes non-public information about the Product.",
+            "text": "\"Confidential Information\" means information in any form disclosed by or on behalf of a Discloser, including before the Effective Date, to a Recipient in connection with this Agreement that (a) the Discloser identifies as \"confidential\", \"proprietary\", or the like; or (b) should be reasonably understood as confidential or proprietary due to its nature and the circumstances of its disclosure. Confidential Information includes the existence of this Agreement and the information on each Cover Page. Customer’s Confidential Information includes non-public Customer Content and Provider’s Confidential Information includes non-public information about the Product.",
+            "summary": "Defines \"Confidential Information\" as disclosures marked confidential or reasonably understood as such, including the Agreement's existence and Cover Page information, with specific categories for Customer Content and Product information.",
+            "variables_used": [
+              "Customer",
+              "Effective Date",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.9",
+            "number": "13.9",
+            "title": "Cover Page",
+            "kind": "definition",
+            "raw": "<span id=\"13.9\">**\"Cover Page\"**</span> means a document that is signed or electronically accepted by the parties, incorporates these Standard Terms or is governed by the Framework Terms, and identifies <span class=\"coverpage_link\">Provider</span> and <span class=\"coverpage_link\">Customer</span>. A Cover Page may include an Order Form, Key Terms, or both.",
+            "text": "\"Cover Page\" means a document that is signed or electronically accepted by the parties, incorporates these Standard Terms or is governed by the Framework Terms, and identifies Provider and Customer. A Cover Page may include an Order Form, Key Terms, or both.",
+            "summary": "Defines \"Cover Page\" as a signed document identifying Provider and Customer that incorporates or is governed by Standard Terms or Framework Terms, potentially including an Order Form or Key Terms.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.10",
+            "number": "13.10",
+            "title": "Covered Claim",
+            "kind": "definition",
+            "raw": "<span id=\"13.10\">**\"Covered Claim\"**</span> means either a <span class=\"keyterms_link\">Provider Covered Claim</span> or <span class=\"keyterms_link\">Customer Covered Claim</span>.",
+            "text": "\"Covered Claim\" means either a Provider Covered Claim or Customer Covered Claim.",
+            "summary": "Defines \"Covered Claim\" as encompassing both Provider Covered Claims and Customer Covered Claims, establishing the scope of claims subject to the agreement's coverage provisions.",
+            "variables_used": [
+              "Customer Covered Claim",
+              "Provider Covered Claim"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.11",
+            "number": "13.11",
+            "title": "Customer Content",
+            "kind": "definition",
+            "raw": "<span id=\"13.11\">**\"Customer Content\"**</span> means data, information, or materials submitted by or on behalf of <span class=\"coverpage_link\">Customer</span> or Users to the Product but excludes Feedback.",
+            "text": "\"Customer Content\" means data, information, or materials submitted by or on behalf of Customer or Users to the Product but excludes Feedback.",
+            "summary": "Defines \"Customer Content\" as data and materials submitted by Customer or Users to the Product, explicitly excluding Feedback.",
+            "variables_used": [
+              "Customer"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.12",
+            "number": "13.12",
+            "title": "Discloser",
+            "kind": "definition",
+            "raw": "<span id=\"13.12\">**\"Discloser\"**</span> means a party to this Agreement when the party is providing or disclosing Confidential Information to the other party.",
+            "text": "\"Discloser\" means a party to this Agreement when the party is providing or disclosing Confidential Information to the other party.",
+            "summary": "Defines \"Discloser\" as the party providing or disclosing Confidential Information under this Agreement.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.13",
+            "number": "13.13",
+            "title": "Documentation",
+            "kind": "definition",
+            "raw": "<span id=\"13.13\">**\"Documentation\"**</span> means the usage manuals and instructional materials for the Cloud Service or Software that are made available by <span class=\"coverpage_link\">Provider</span>.",
+            "text": "\"Documentation\" means the usage manuals and instructional materials for the Cloud Service or Software that are made available by Provider.",
+            "summary": "Defines \"Documentation\" as usage manuals and instructional materials for the Cloud Service or Software provided by Provider.",
+            "variables_used": [
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.14",
+            "number": "13.14",
+            "title": "Embargoed Country",
+            "kind": "definition",
+            "raw": "<span id=\"13.14\">**\"Embargoed Country\"**</span> means any country or region to or from where Applicable Laws generally restrict the export or import of goods, services, or money.",
+            "text": "\"Embargoed Country\" means any country or region to or from where Applicable Laws generally restrict the export or import of goods, services, or money.",
+            "summary": "Defines \"Embargoed Country\" as any jurisdiction where Applicable Laws restrict export or import of goods, services, or money; establishes definitional foundation for compliance obligations.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.15",
+            "number": "13.15",
+            "title": "Feedback",
+            "kind": "definition",
+            "raw": "<span id=\"13.15\">**\"Feedback\"**</span> means suggestions, feedback, or comments about the Product or related offerings.",
+            "text": "\"Feedback\" means suggestions, feedback, or comments about the Product or related offerings.",
+            "summary": "Defines \"Feedback\" as suggestions, comments, or feedback that a party provides regarding the Product or related offerings.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.16",
+            "number": "13.16",
+            "title": "Fees",
+            "kind": "definition",
+            "raw": "<span id=\"13.16\">**\"Fees\"**</span> means the applicable amounts described in an Order Form.",
+            "text": "\"Fees\" means the applicable amounts described in an Order Form.",
+            "summary": "\"Fees\" is defined as the amounts specified in each Order Form, establishing the pricing structure that determines what the Client must pay.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.17",
+            "number": "13.17",
+            "title": "Force Majeure Event",
+            "kind": "definition",
+            "raw": "<span id=\"13.17\">**\"Force Majeure Event\"**</span> means an unforeseen event outside a party’s reasonable control where the affected party took reasonable measures to avoid or mitigate the impacts of the event. Examples of these kinds of events include unpredicted natural disasters like a major earthquake, war, pandemic, riot, act of terrorism, or public utility or internet failure.",
+            "text": "\"Force Majeure Event\" means an unforeseen event outside a party’s reasonable control where the affected party took reasonable measures to avoid or mitigate the impacts of the event. Examples of these kinds of events include unpredicted natural disasters like a major earthquake, war, pandemic, riot, act of terrorism, or public utility or internet failure.",
+            "summary": "Defines \"Force Majeure Event\" as unforeseen, uncontrollable occurrences (earthquakes, war, pandemics, terrorism, utility failures) where affected party exercised reasonable mitigation efforts.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.18",
+            "number": "13.18",
+            "title": "Framework Terms",
+            "kind": "definition",
+            "raw": "<span id=\"13.18\">**\"Framework Terms\"**</span> means these Standard Terms, the Key Terms between <span class=\"coverpage_link\">Provider</span> and <span class=\"coverpage_link\">Customer</span>, and any policies and documents referenced in or attached to the Key Terms.",
+            "text": "\"Framework Terms\" means these Standard Terms, the Key Terms between Provider and Customer, and any policies and documents referenced in or attached to the Key Terms.",
+            "summary": "Defines \"Framework Terms\" as encompassing the Standard Terms, Key Terms between parties, and all referenced or attached policies and documents.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.19",
+            "number": "13.19",
+            "title": "GDPR",
+            "kind": "definition",
+            "raw": "<span id=\"13.19\">**\"GDPR\"**</span> means European Union Regulation 2016/679 as implemented by local law in the relevant European Union member nation, and by section 3 of the United Kingdom’s European Union (Withdrawal) Act of 2018 in the United Kingdom.",
+            "text": "\"GDPR\" means European Union Regulation 2016/679 as implemented by local law in the relevant European Union member nation, and by section 3 of the United Kingdom’s European Union (Withdrawal) Act of 2018 in the United Kingdom.",
+            "summary": "Defines \"GDPR\" to mean EU Regulation 2016/679 as locally implemented in EU member states and the UK under its Withdrawal Act 2018.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.20",
+            "number": "13.20",
+            "title": "High Risk Activity",
+            "kind": "definition",
+            "raw": "<span id=\"13.20\">**\"High Risk Activity\"**</span> means any situation where the use or failure of the Product could be reasonably expected to lead to death, bodily injury, or environmental damage. Examples include full or partial autonomous vehicle technology, medical life-support technology, emergency response services, nuclear facilities operation, and air traffic control.",
+            "text": "\"High Risk Activity\" means any situation where the use or failure of the Product could be reasonably expected to lead to death, bodily injury, or environmental damage. Examples include full or partial autonomous vehicle technology, medical life-support technology, emergency response services, nuclear facilities operation, and air traffic control.",
+            "summary": "Defines \"High Risk Activity\" as situations where Product failure could cause death, injury, or environmental damage, with examples including autonomous vehicles, medical life-support, and nuclear operations.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.21",
+            "number": "13.21",
+            "title": "Indemnifying Party",
+            "kind": "definition",
+            "raw": "<span id=\"13.21\">**\"Indemnifying Party\"**</span> means a party to this Agreement when the party is providing protection for a particular Covered Claim.",
+            "text": "\"Indemnifying Party\" means a party to this Agreement when the party is providing protection for a particular Covered Claim.",
+            "summary": "Defines \"Indemnifying Party\" as the contracting party providing protection against a particular Covered Claim under this Agreement.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.22",
+            "number": "13.22",
+            "title": "Key Terms",
+            "kind": "definition",
+            "raw": "<span id=\"13.22\">**\"Key Terms\"**</span> means a Cover Page that includes the key legal details and Variables for this Agreement. The Key Terms may include details about Covered Claims, set the <span class=\"keyterms_link\">Governing Law</span>, or contain other details about this Agreement.",
+            "text": "\"Key Terms\" means a Cover Page that includes the key legal details and Variables for this Agreement. The Key Terms may include details about Covered Claims, set the Governing Law, or contain other details about this Agreement.",
+            "summary": "\"Key Terms\" designates the Cover Page document that specifies legal details, Variables, Covered Claims, Governing Law, and other Agreement particulars.",
+            "variables_used": [
+              "Governing Law"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.23",
+            "number": "13.23",
+            "title": "OFAC",
+            "kind": "definition",
+            "raw": "<span id=\"13.23\">**\"OFAC\"**</span> means the United States Department of Treasury's Office of Foreign Assets Control.",
+            "text": "\"OFAC\" means the United States Department of Treasury's Office of Foreign Assets Control.",
+            "summary": "Defines \"OFAC\" as the U.S. Department of Treasury's Office of Foreign Assets Control for purposes of sanctions compliance obligations elsewhere in the agreement.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.24",
+            "number": "13.24",
+            "title": "Order Form",
+            "kind": "definition",
+            "raw": "<span id=\"13.24\">**\"Order Form\"**</span> means a Cover Page that includes the key business details and Variables for this Agreement that are not defined in the Framework Terms. An Order Form includes the policies and documents referenced in or attached to the Order Form. An Order Form may include details about the level of access and use granted to the Cloud Service, length of <span class=\"orderform_link\">Subscription Period</span>, or other details about the Product.",
+            "text": "\"Order Form\" means a Cover Page that includes the key business details and Variables for this Agreement that are not defined in the Framework Terms. An Order Form includes the policies and documents referenced in or attached to the Order Form. An Order Form may include details about the level of access and use granted to the Cloud Service, length of Subscription Period, or other details about the Product.",
+            "summary": "\"Order Form\" defines a Cover Page document specifying business details, Variables, access levels, Subscription Period length, and Product details not covered by Framework Terms.",
+            "variables_used": [
+              "Subscription Period"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.25",
+            "number": "13.25",
+            "title": "Personal Data",
+            "kind": "definition",
+            "raw": "<span id=\"13.25\">**\"Personal Data\"**</span> will have the meaning(s) set forth in the Applicable Data Protection Laws for personal information, personal data, personally identifiable information, or other similar term.",
+            "text": "\"Personal Data\" will have the meaning(s) set forth in the Applicable Data Protection Laws for personal information, personal data, personally identifiable information, or other similar term.",
+            "summary": "Defines \"Personal Data\" by reference to definitions in Applicable Data Protection Laws, encompassing personal information, personally identifiable information, and similar regulatory terms.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.26",
+            "number": "13.26",
+            "title": "Product",
+            "kind": "definition",
+            "raw": "<span id=\"13.26\">**\"Product\"**</span> means the Cloud Service, Software, and Documentation.",
+            "text": "\"Product\" means the Cloud Service, Software, and Documentation.",
+            "summary": "Defines \"Product\" to mean the Cloud Service, Software, and Documentation collectively, establishing the scope of services and deliverables covered by the agreement.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.27",
+            "number": "13.27",
+            "title": "Prohibited Data",
+            "kind": "definition",
+            "raw": "<span id=\"13.27\">**\"Prohibited Data\"**</span> means (a) patient, medical, or other protected health information regulated by the Health Insurance Portability and Accountability Act; (b) credit, debit, bank account, or other financial account numbers; (c) social security numbers, driver’s license numbers, or other unique and private government ID numbers; (d) special categories of data as defined in the GDPR; and (e) other similar categories of sensitive information as set forth in the Applicable Data Protection Laws.",
+            "text": "\"Prohibited Data\" means (a) patient, medical, or other protected health information regulated by the Health Insurance Portability and Accountability Act; (b) credit, debit, bank account, or other financial account numbers; (c) social security numbers, driver’s license numbers, or other unique and private government ID numbers; (d) special categories of data as defined in the GDPR; and (e) other similar categories of sensitive information as set forth in the Applicable Data Protection Laws.",
+            "summary": "Defines \"Prohibited Data\" to include HIPAA-protected health information, financial account numbers, government IDs, GDPR special categories, and similar sensitive data under Applicable Data Protection Laws.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.28",
+            "number": "13.28",
+            "title": "Protected Party",
+            "kind": "definition",
+            "raw": "<span id=\"13.28\">**\"Protected Party\"**</span> means a party to this Agreement when the party is receiving the benefit of protection for a particular Covered Claim.",
+            "text": "\"Protected Party\" means a party to this Agreement when the party is receiving the benefit of protection for a particular Covered Claim.",
+            "summary": "\"Protected Party\" designates any Agreement party receiving protection benefits for a specific Covered Claim, establishing the identity of beneficiaries under the Agreement's protective provisions.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.29",
+            "number": "13.29",
+            "title": "Recipient",
+            "kind": "definition",
+            "raw": "<span id=\"13.29\">**\"Recipient\"**</span> means a party to this Agreement when the party receives Confidential Information from the other party.",
+            "text": "\"Recipient\" means a party to this Agreement when the party receives Confidential Information from the other party.",
+            "summary": "Defines \"Recipient\" as the party receiving Confidential Information under this Agreement, establishing the party bound by confidentiality obligations.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.30",
+            "number": "13.30",
+            "title": "Software",
+            "kind": "definition",
+            "raw": "<span id=\"13.30\">**\"Software\"**</span> means the client-side software or applications made available by <span class=\"coverpage_link\">Provider</span> for <span class=\"coverpage_link\">Customer</span> to install, download (whether onto a machine or in a browser), or execute as part of the Product.",
+            "text": "\"Software\" means the client-side software or applications made available by Provider for Customer to install, download (whether onto a machine or in a browser), or execute as part of the Product.",
+            "summary": "Defines \"Software\" as client-side applications Provider makes available for Customer to install, download, or execute as part of the Product.",
+            "variables_used": [
+              "Customer",
+              "Provider"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.31",
+            "number": "13.31",
+            "title": "Standard Terms",
+            "kind": "definition",
+            "raw": "<span id=\"13.31\">**\"Standard Terms\"**</span> means these Common Paper Cloud Service Agreement Standard Terms Version 2.1, which are posted at <https://commonpaper.com/standards/cloud-service-agreement/2.1/>.",
+            "text": "\"Standard Terms\" means these Common Paper Cloud Service Agreement Standard Terms Version 2.1, which are posted at <https://commonpaper.com/standards/cloud-service-agreement/2.1/>.",
+            "summary": "Defines \"Standard Terms\" as the specific version 2.1 of Common Paper's Cloud Service Agreement posted at the referenced URL.",
+            "variables_used": [],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.32",
+            "number": "13.32",
+            "title": "Usage Data",
+            "kind": "definition",
+            "raw": "<span id=\"13.32\">**\"Usage Data\"**</span> means data and information about the provision, use, and performance of the Product and related offerings based on <span class=\"coverpage_link\">Customer’s</span> or User’s use of the Product.",
+            "text": "\"Usage Data\" means data and information about the provision, use, and performance of the Product and related offerings based on Customer’s or User’s use of the Product.",
+            "summary": "Defines \"Usage Data\" as information regarding Product provision, use, and performance generated from Customer or User activity.",
+            "variables_used": [
+              "Customer"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.33",
+            "number": "13.33",
+            "title": "User",
+            "kind": "definition",
+            "raw": "<span id=\"13.33\">**\"User\"**</span> means any individual who uses the Product on <span class=\"coverpage_link\">Customer’s</span> behalf or through <span class=\"coverpage_link\">Customer’s</span> account.",
+            "text": "\"User\" means any individual who uses the Product on Customer’s behalf or through Customer’s account.",
+            "summary": "Defines \"User\" as any individual accessing the Product through or on behalf of Customer's account.",
+            "variables_used": [
+              "Customer"
+            ],
+            "cross_refs": [],
+            "children": []
+          },
+          {
+            "id": "n13.34",
+            "number": "13.34",
+            "title": "Variable",
+            "kind": "definition",
+            "raw": "<span id=\"13.34\">**\"Variable\"**</span></span> means a word or phrase that is highlighted and capitalized, such as <span class=\"orderform_link\">Subscription Period</span> or <span class=\"keyterms_link\">Governing Law</span>.",
+            "text": "\"Variable\" means a word or phrase that is highlighted and capitalized, such as Subscription Period or Governing Law.",
+            "summary": "Defines \"Variable\" as any highlighted, capitalized term (e.g., Subscription Period, Governing Law) used throughout the agreement.",
+            "variables_used": [
+              "Governing Law",
+              "Subscription Period"
+            ],
+            "cross_refs": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "glossary": {
+    "Affiliate": {
+      "term": "Affiliate",
+      "definition": "\"Affiliate\" means an entity that, directly or indirectly, controls, is under the control of, or is under common control with a party, where control means having more than fifty percent (50%) of the voting stock or other ownership interest.",
+      "defined_in": "13.2",
+      "node_id": "n13.2",
+      "source": "Definitions section"
+    },
+    "Agreement": {
+      "term": "Agreement",
+      "definition": "\"Agreement\" means the Order Form between Provider and Customer as governed by the Framework Terms.",
+      "defined_in": "13.3",
+      "node_id": "n13.3",
+      "source": "Definitions section"
+    },
+    "Applicable Data Protection Laws": {
+      "term": "Applicable Data Protection Laws",
+      "definition": "\"Applicable Data Protection Laws\" means the Applicable Laws that govern how the Cloud Service may process or use an individual’s personal information, personal data, personally identifiable information, or other similar term.",
+      "defined_in": "13.4",
+      "node_id": "n13.4",
+      "source": "Definitions section"
+    },
+    "Applicable Laws": {
+      "term": "Applicable Laws",
+      "definition": "\"Applicable Laws\" means the laws, rules, regulations, court orders, and other binding requirements of a relevant government authority that apply to or govern Provider or Customer.",
+      "defined_in": "13.5",
+      "node_id": "n13.5",
+      "source": "Definitions section"
+    },
+    "Beta Product": {
+      "term": "Beta Product",
+      "definition": "\"Beta Product\" means an early or prerelease feature or version of the Product that is identified as beta or similar, or a version of the Product that is not generally available.",
+      "defined_in": "13.6",
+      "node_id": "n13.6",
+      "source": "Definitions section"
+    },
+    "Cloud Service": {
+      "term": "Cloud Service",
+      "definition": "\"Cloud Service\" means the product described in the Order Form.",
+      "defined_in": "13.7",
+      "node_id": "n13.7",
+      "source": "Definitions section"
+    },
+    "Confidential Information": {
+      "term": "Confidential Information",
+      "definition": "\"Confidential Information\" means information in any form disclosed by or on behalf of a Discloser, including before the Effective Date, to a Recipient in connection with this Agreement that (a) the Discloser identifies as \"confidential\", \"proprietary\", or the like; or (b) should be reasonably understood as confidential or proprietary due to its nature and the circumstances of its disclosure. Confidential Information includes the existence of this Agreement and the information on each Cover Page. Customer’s Confidential Information includes non-public Customer Content and Provider’s Confidential Information includes non-public information about the Product.",
+      "defined_in": "13.8",
+      "node_id": "n13.8",
+      "source": "Definitions section"
+    },
+    "Cover Page": {
+      "term": "Cover Page",
+      "definition": "\"Cover Page\" means a document that is signed or electronically accepted by the parties, incorporates these Standard Terms or is governed by the Framework Terms, and identifies Provider and Customer. A Cover Page may include an Order Form, Key Terms, or both.",
+      "defined_in": "13.9",
+      "node_id": "n13.9",
+      "source": "Definitions section"
+    },
+    "Covered Claim": {
+      "term": "Covered Claim",
+      "definition": "\"Covered Claim\" means either a Provider Covered Claim or Customer Covered Claim.",
+      "defined_in": "13.10",
+      "node_id": "n13.10",
+      "source": "Definitions section"
+    },
+    "Customer Content": {
+      "term": "Customer Content",
+      "definition": "\"Customer Content\" means data, information, or materials submitted by or on behalf of Customer or Users to the Product but excludes Feedback.",
+      "defined_in": "13.11",
+      "node_id": "n13.11",
+      "source": "Definitions section"
+    },
+    "Discloser": {
+      "term": "Discloser",
+      "definition": "\"Discloser\" means a party to this Agreement when the party is providing or disclosing Confidential Information to the other party.",
+      "defined_in": "13.12",
+      "node_id": "n13.12",
+      "source": "Definitions section"
+    },
+    "Documentation": {
+      "term": "Documentation",
+      "definition": "\"Documentation\" means the usage manuals and instructional materials for the Cloud Service or Software that are made available by Provider.",
+      "defined_in": "13.13",
+      "node_id": "n13.13",
+      "source": "Definitions section"
+    },
+    "Embargoed Country": {
+      "term": "Embargoed Country",
+      "definition": "\"Embargoed Country\" means any country or region to or from where Applicable Laws generally restrict the export or import of goods, services, or money.",
+      "defined_in": "13.14",
+      "node_id": "n13.14",
+      "source": "Definitions section"
+    },
+    "Feedback": {
+      "term": "Feedback",
+      "definition": "\"Feedback\" means suggestions, feedback, or comments about the Product or related offerings.",
+      "defined_in": "13.15",
+      "node_id": "n13.15",
+      "source": "Definitions section"
+    },
+    "Fees": {
+      "term": "Fees",
+      "definition": "\"Fees\" means the applicable amounts described in an Order Form.",
+      "defined_in": "13.16",
+      "node_id": "n13.16",
+      "source": "Definitions section"
+    },
+    "Force Majeure Event": {
+      "term": "Force Majeure Event",
+      "definition": "\"Force Majeure Event\" means an unforeseen event outside a party’s reasonable control where the affected party took reasonable measures to avoid or mitigate the impacts of the event. Examples of these kinds of events include unpredicted natural disasters like a major earthquake, war, pandemic, riot, act of terrorism, or public utility or internet failure.",
+      "defined_in": "13.17",
+      "node_id": "n13.17",
+      "source": "Definitions section"
+    },
+    "Framework Terms": {
+      "term": "Framework Terms",
+      "definition": "\"Framework Terms\" means these Standard Terms, the Key Terms between Provider and Customer, and any policies and documents referenced in or attached to the Key Terms.",
+      "defined_in": "13.18",
+      "node_id": "n13.18",
+      "source": "Definitions section"
+    },
+    "GDPR": {
+      "term": "GDPR",
+      "definition": "\"GDPR\" means European Union Regulation 2016/679 as implemented by local law in the relevant European Union member nation, and by section 3 of the United Kingdom’s European Union (Withdrawal) Act of 2018 in the United Kingdom.",
+      "defined_in": "13.19",
+      "node_id": "n13.19",
+      "source": "Definitions section"
+    },
+    "High Risk Activity": {
+      "term": "High Risk Activity",
+      "definition": "\"High Risk Activity\" means any situation where the use or failure of the Product could be reasonably expected to lead to death, bodily injury, or environmental damage. Examples include full or partial autonomous vehicle technology, medical life-support technology, emergency response services, nuclear facilities operation, and air traffic control.",
+      "defined_in": "13.20",
+      "node_id": "n13.20",
+      "source": "Definitions section"
+    },
+    "Indemnifying Party": {
+      "term": "Indemnifying Party",
+      "definition": "\"Indemnifying Party\" means a party to this Agreement when the party is providing protection for a particular Covered Claim.",
+      "defined_in": "13.21",
+      "node_id": "n13.21",
+      "source": "Definitions section"
+    },
+    "Key Terms": {
+      "term": "Key Terms",
+      "definition": "\"Key Terms\" means a Cover Page that includes the key legal details and Variables for this Agreement. The Key Terms may include details about Covered Claims, set the Governing Law, or contain other details about this Agreement.",
+      "defined_in": "13.22",
+      "node_id": "n13.22",
+      "source": "Definitions section"
+    },
+    "OFAC": {
+      "term": "OFAC",
+      "definition": "\"OFAC\" means the United States Department of Treasury's Office of Foreign Assets Control.",
+      "defined_in": "13.23",
+      "node_id": "n13.23",
+      "source": "Definitions section"
+    },
+    "Order Form": {
+      "term": "Order Form",
+      "definition": "\"Order Form\" means a Cover Page that includes the key business details and Variables for this Agreement that are not defined in the Framework Terms. An Order Form includes the policies and documents referenced in or attached to the Order Form. An Order Form may include details about the level of access and use granted to the Cloud Service, length of Subscription Period, or other details about the Product.",
+      "defined_in": "13.24",
+      "node_id": "n13.24",
+      "source": "Definitions section"
+    },
+    "Personal Data": {
+      "term": "Personal Data",
+      "definition": "\"Personal Data\" will have the meaning(s) set forth in the Applicable Data Protection Laws for personal information, personal data, personally identifiable information, or other similar term.",
+      "defined_in": "13.25",
+      "node_id": "n13.25",
+      "source": "Definitions section"
+    },
+    "Product": {
+      "term": "Product",
+      "definition": "\"Product\" means the Cloud Service, Software, and Documentation.",
+      "defined_in": "13.26",
+      "node_id": "n13.26",
+      "source": "Definitions section"
+    },
+    "Prohibited Data": {
+      "term": "Prohibited Data",
+      "definition": "\"Prohibited Data\" means (a) patient, medical, or other protected health information regulated by the Health Insurance Portability and Accountability Act; (b) credit, debit, bank account, or other financial account numbers; (c) social security numbers, driver’s license numbers, or other unique and private government ID numbers; (d) special categories of data as defined in the GDPR; and (e) other similar categories of sensitive information as set forth in the Applicable Data Protection Laws.",
+      "defined_in": "13.27",
+      "node_id": "n13.27",
+      "source": "Definitions section"
+    },
+    "Protected Party": {
+      "term": "Protected Party",
+      "definition": "\"Protected Party\" means a party to this Agreement when the party is receiving the benefit of protection for a particular Covered Claim.",
+      "defined_in": "13.28",
+      "node_id": "n13.28",
+      "source": "Definitions section"
+    },
+    "Recipient": {
+      "term": "Recipient",
+      "definition": "\"Recipient\" means a party to this Agreement when the party receives Confidential Information from the other party.",
+      "defined_in": "13.29",
+      "node_id": "n13.29",
+      "source": "Definitions section"
+    },
+    "Software": {
+      "term": "Software",
+      "definition": "\"Software\" means the client-side software or applications made available by Provider for Customer to install, download (whether onto a machine or in a browser), or execute as part of the Product.",
+      "defined_in": "13.30",
+      "node_id": "n13.30",
+      "source": "Definitions section"
+    },
+    "Standard Terms": {
+      "term": "Standard Terms",
+      "definition": "\"Standard Terms\" means these Common Paper Cloud Service Agreement Standard Terms Version 2.1, which are posted at <https://commonpaper.com/standards/cloud-service-agreement/2.1/>.",
+      "defined_in": "13.31",
+      "node_id": "n13.31",
+      "source": "Definitions section"
+    },
+    "Usage Data": {
+      "term": "Usage Data",
+      "definition": "\"Usage Data\" means data and information about the provision, use, and performance of the Product and related offerings based on Customer’s or User’s use of the Product.",
+      "defined_in": "13.32",
+      "node_id": "n13.32",
+      "source": "Definitions section"
+    },
+    "User": {
+      "term": "User",
+      "definition": "\"User\" means any individual who uses the Product on Customer’s behalf or through Customer’s account.",
+      "defined_in": "13.33",
+      "node_id": "n13.33",
+      "source": "Definitions section"
+    },
+    "Variable": {
+      "term": "Variable",
+      "definition": "\"Variable\" means a word or phrase that is highlighted and capitalized, such as Subscription Period or Governing Law.",
+      "defined_in": "13.34",
+      "node_id": "n13.34",
+      "source": "Definitions section"
+    },
+    "Customer": {
+      "term": "Customer",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Provider": {
+      "term": "Provider",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Subscription Period": {
+      "term": "Subscription Period",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Technical Support": {
+      "term": "Technical Support",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Use Limitations": {
+      "term": "Use Limitations",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "DPA": {
+      "term": "DPA",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Payment Process": {
+      "term": "Payment Process",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Non-Renewal Notice Date": {
+      "term": "Non-Renewal Notice Date",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Order Date": {
+      "term": "Order Date",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Subscription Periods": {
+      "term": "Subscription Periods",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Effective Date": {
+      "term": "Effective Date",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Additional Warranties": {
+      "term": "Additional Warranties",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "General Cap Amount": {
+      "term": "General Cap Amount",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Increased Cap Amount": {
+      "term": "Increased Cap Amount",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Increased Claims": {
+      "term": "Increased Claims",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Unlimited Claims": {
+      "term": "Unlimited Claims",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Provider Covered Claims": {
+      "term": "Provider Covered Claims",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Customer Covered Claims": {
+      "term": "Customer Covered Claims",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Provider Covered Claim": {
+      "term": "Provider Covered Claim",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Chosen Courts": {
+      "term": "Chosen Courts",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Governing Law": {
+      "term": "Governing Law",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    },
+    "Customer Covered Claim": {
+      "term": "Customer Covered Claim",
+      "definition": "A Variable whose value is set on the Cover Page / Order Form.",
+      "defined_in": null,
+      "node_id": null,
+      "source": "Cover Page Variable"
+    }
+  },
+  "term_usage": {
+    "Affiliate": [
+      "1.1"
+    ],
+    "Agreement": [
+      "1.1",
+      "1.3",
+      "2.1",
+      "2.2",
+      "3.1",
+      "4.1",
+      "4.6",
+      "5.1",
+      "5.6",
+      "6.1",
+      "6.2",
+      "8.1",
+      "8.2",
+      "8.4",
+      "9.5",
+      "10.1",
+      "12.1",
+      "12.2",
+      "12.3",
+      "12.5",
+      "12.6",
+      "12.9",
+      "12.11",
+      "12.12",
+      "12.13",
+      "12.14",
+      "12.16",
+      "12.17",
+      "13.1"
+    ],
+    "Applicable Data Protection Laws": [
+      "1.6"
+    ],
+    "Applicable Laws": [
+      "2.1",
+      "4.6",
+      "5.6",
+      "6.1",
+      "7.1",
+      "8.4",
+      "10.3",
+      "12.15"
+    ],
+    "Beta Product": [
+      "12.7"
+    ],
+    "Cloud Service": [
+      "1.1",
+      "6.3",
+      "6.4",
+      "12.14"
+    ],
+    "Confidential Information": [
+      "5.5",
+      "5.6",
+      "10.1",
+      "10.2",
+      "10.3",
+      "10.4"
+    ],
+    "Cover Page": [
+      "5.6",
+      "13.1"
+    ],
+    "Covered Claim": [
+      "9.3",
+      "9.4",
+      "9.5",
+      "9.6"
+    ],
+    "Customer Content": [
+      "1.5",
+      "1.6",
+      "2.1",
+      "5.5",
+      "6.2",
+      "9.5",
+      "11.1"
+    ],
+    "Discloser": [
+      "5.5",
+      "5.6",
+      "10.1",
+      "10.2",
+      "10.3",
+      "10.4"
+    ],
+    "Documentation": [
+      "1.1",
+      "2.1",
+      "11.1",
+      "12.14"
+    ],
+    "Embargoed Country": [
+      "12.13"
+    ],
+    "Feedback": [
+      "1.4",
+      "5.6"
+    ],
+    "Fees": [
+      "4.1",
+      "4.2",
+      "4.3",
+      "4.4",
+      "4.5",
+      "4.6",
+      "5.4",
+      "5.5",
+      "5.6",
+      "6.4",
+      "9.4",
+      "12.12"
+    ],
+    "Force Majeure Event": [
+      "5.4",
+      "12.12"
+    ],
+    "Framework Terms": [
+      "5.2",
+      "5.3",
+      "5.5",
+      "13.1"
+    ],
+    "GDPR": [
+      "3.1"
+    ],
+    "High Risk Activity": [],
+    "Indemnifying Party": [
+      "9.3",
+      "9.5",
+      "9.6"
+    ],
+    "Key Terms": [
+      "3.2"
+    ],
+    "OFAC": [
+      "12.13"
+    ],
+    "Order Form": [
+      "1.1",
+      "1.2",
+      "3.2",
+      "4.1",
+      "4.5",
+      "5.1",
+      "5.3",
+      "5.4",
+      "6.4",
+      "9.4",
+      "13.1"
+    ],
+    "Personal Data": [
+      "1.6",
+      "3.1"
+    ],
+    "Product": [
+      "1.5",
+      "1.6",
+      "2.1",
+      "2.2",
+      "3.2",
+      "5.4",
+      "5.5",
+      "6.2",
+      "7.1",
+      "9.4",
+      "9.5",
+      "11.1",
+      "12.1",
+      "12.7",
+      "12.13",
+      "12.14"
+    ],
+    "Prohibited Data": [
+      "3.2"
+    ],
+    "Protected Party": [
+      "9.3",
+      "9.6"
+    ],
+    "Recipient": [
+      "5.5",
+      "5.6",
+      "10.1",
+      "10.2",
+      "10.3",
+      "10.4"
+    ],
+    "Software": [
+      "1.1",
+      "11.1",
+      "12.14"
+    ],
+    "Standard Terms": [],
+    "Usage Data": [
+      "1.4",
+      "1.6",
+      "5.6"
+    ],
+    "User": [],
+    "Variable": [
+      "13.1"
+    ],
+    "Customer": [
+      "1.1",
+      "1.3",
+      "1.4",
+      "1.5",
+      "1.6",
+      "2.1",
+      "2.2",
+      "3.1",
+      "3.2",
+      "4.3",
+      "4.4",
+      "4.5",
+      "4.6",
+      "5.4",
+      "5.5",
+      "5.6",
+      "6.2",
+      "6.3",
+      "6.4",
+      "7.1",
+      "9.1",
+      "9.2",
+      "9.4",
+      "9.5",
+      "11.1",
+      "12.1",
+      "12.7",
+      "12.8",
+      "12.12",
+      "12.13",
+      "12.15"
+    ],
+    "Provider": [
+      "1.1",
+      "1.2",
+      "1.3",
+      "1.4",
+      "1.5",
+      "1.6",
+      "2.2",
+      "3.1",
+      "4.2",
+      "4.3",
+      "4.4",
+      "4.5",
+      "4.6",
+      "5.4",
+      "5.5",
+      "6.3",
+      "6.4",
+      "7.1",
+      "9.1",
+      "9.2",
+      "9.4",
+      "9.5",
+      "11.1",
+      "12.1",
+      "12.7",
+      "12.8",
+      "12.13",
+      "12.15"
+    ],
+    "Subscription Period": [
+      "1.1",
+      "1.2",
+      "5.1",
+      "5.4",
+      "6.3",
+      "6.4",
+      "9.4"
+    ],
+    "Technical Support": [
+      "1.2"
+    ],
+    "Use Limitations": [
+      "2.1"
+    ],
+    "DPA": [
+      "3.1"
+    ],
+    "Payment Process": [
+      "4.2",
+      "4.3",
+      "4.5"
+    ],
+    "Non-Renewal Notice Date": [
+      "5.1"
+    ],
+    "Order Date": [
+      "5.1"
+    ],
+    "Subscription Periods": [
+      "5.1"
+    ],
+    "Effective Date": [
+      "5.2",
+      "11.1"
+    ],
+    "Additional Warranties": [
+      "6.1"
+    ],
+    "General Cap Amount": [
+      "8.1"
+    ],
+    "Increased Cap Amount": [
+      "8.1"
+    ],
+    "Increased Claims": [
+      "8.1",
+      "8.4"
+    ],
+    "Unlimited Claims": [
+      "8.4"
+    ],
+    "Provider Covered Claims": [
+      "9.1",
+      "9.5"
+    ],
+    "Customer Covered Claims": [
+      "9.2",
+      "9.5"
+    ],
+    "Provider Covered Claim": [
+      "9.4",
+      "9.5"
+    ],
+    "Chosen Courts": [
+      "12.3",
+      "12.4"
+    ],
+    "Governing Law": [
+      "12.3",
+      "12.4"
+    ],
+    "Customer Covered Claim": []
+  },
+  "referenced_by": {
+    "1": [],
+    "1.1": [
+      "11.1"
+    ],
+    "1.2": [],
+    "1.3": [],
+    "1.4": [
+      "5.6"
+    ],
+    "1.5": [
+      "11.1"
+    ],
+    "1.6": [
+      "5.6",
+      "11.1"
+    ],
+    "2": [],
+    "2.1": [
+      "2.2",
+      "5.6"
+    ],
+    "2.2": [],
+    "3": [
+      "5.6"
+    ],
+    "3.1": [],
+    "3.2": [],
+    "4": [
+      "5.5",
+      "5.6"
+    ],
+    "4.1": [],
+    "4.2": [],
+    "4.3": [],
+    "4.4": [],
+    "4.5": [],
+    "4.6": [],
+    "5": [],
+    "5.1": [],
+    "5.2": [],
+    "5.3": [],
+    "5.4": [],
+    "5.5": [
+      "5.6"
+    ],
+    "5.6": [],
+    "6": [
+      "5.6",
+      "7.1"
+    ],
+    "6.1": [],
+    "6.2": [],
+    "6.3": [
+      "6.4",
+      "12.7"
+    ],
+    "6.4": [],
+    "7": [
+      "5.6"
+    ],
+    "7.1": [],
+    "8": [
+      "5.6"
+    ],
+    "8.1": [
+      "8.3",
+      "8.4"
+    ],
+    "8.2": [
+      "8.3",
+      "8.4"
+    ],
+    "8.3": [],
+    "8.4": [
+      "8.1",
+      "8.2"
+    ],
+    "9": [
+      "5.6",
+      "9.6"
+    ],
+    "9.1": [],
+    "9.2": [],
+    "9.3": [],
+    "9.4": [],
+    "9.5": [],
+    "9.6": [],
+    "10": [
+      "5.6",
+      "8.4",
+      "10.4",
+      "12.4"
+    ],
+    "10.1": [],
+    "10.2": [],
+    "10.3": [],
+    "10.4": [],
+    "11": [
+      "5.6"
+    ],
+    "11.1": [],
+    "12": [
+      "5.6"
+    ],
+    "12.1": [],
+    "12.2": [],
+    "12.3": [
+      "12.4"
+    ],
+    "12.4": [],
+    "12.5": [],
+    "12.6": [],
+    "12.7": [],
+    "12.8": [],
+    "12.9": [],
+    "12.10": [],
+    "12.11": [],
+    "12.12": [],
+    "12.13": [],
+    "12.14": [],
+    "12.15": [],
+    "12.16": [],
+    "12.17": [],
+    "13": [
+      "5.6"
+    ],
+    "13.1": [],
+    "13.2": [],
+    "13.3": [],
+    "13.4": [],
+    "13.5": [],
+    "13.6": [],
+    "13.7": [],
+    "13.8": [],
+    "13.9": [],
+    "13.10": [],
+    "13.11": [],
+    "13.12": [],
+    "13.13": [],
+    "13.14": [],
+    "13.15": [],
+    "13.16": [],
+    "13.17": [],
+    "13.18": [],
+    "13.19": [],
+    "13.20": [],
+    "13.21": [],
+    "13.22": [],
+    "13.23": [],
+    "13.24": [],
+    "13.25": [],
+    "13.26": [],
+    "13.27": [],
+    "13.28": [],
+    "13.29": [],
+    "13.30": [],
+    "13.31": [],
+    "13.32": [],
+    "13.33": [],
+    "13.34": []
+  },
+  "stats": {
+    "sections": 13,
+    "clauses": 93,
+    "defined_terms": 55,
+    "cross_references": 33
+  }
+}

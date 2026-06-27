@@ -49,7 +49,7 @@ DOCUMENTS = {
     },
 }
 
-st.set_page_config(page_title="CaseLens — Legal Document Intelligence", page_icon="⚖️", layout="wide")
+st.set_page_config(page_title="CaseLens — Legal Document Intelligence", page_icon="§", layout="wide")
 
 # ── Styling ─────────────────────────────────────────────────────────────────
 st.markdown(
@@ -103,7 +103,7 @@ def load_index(name: str) -> dict:
 
 # ── Sidebar: matter selection + outline ─────────────────────────────────────
 with st.sidebar:
-    st.markdown("### ⚖️ CaseLens")
+    st.markdown("### CaseLens")
     st.caption("Reasoning-based legal research — no vector search.")
     st.divider()
     ss.doc_name = st.selectbox("Document on the desk", list(DOCUMENTS), index=list(DOCUMENTS).index(ss.doc_name))
@@ -126,7 +126,7 @@ with st.sidebar:
         st.caption(f"{s['sections']} sections · {s['clauses']} clauses · "
                    f"{s['defined_terms']} defined terms · {s['cross_references']} cross-references")
     if api_key:
-        st.caption("API key: loaded ✓")
+        st.caption("API key: loaded")
     else:
         st.caption("API key: not set — answering disabled")
 
@@ -155,7 +155,7 @@ def render_answer(result: dict) -> None:
         xcites = " ".join(f"<span class='cl-pill cl-pill-x'>{a['cite']}</span>" for a in xrefs)
         st.markdown("**Cross-references followed:** " + xcites, unsafe_allow_html=True)
 
-    with st.expander(f"📑 Authorities — full clause text ({len(result['authorities'])})", expanded=False):
+    with st.expander(f"Authorities — full clause text ({len(result['authorities'])})", expanded=False):
         for a in result["authorities"]:
             tag = "↳ cross-reference" if a["kind"] == "cross-ref" else "primary authority"
             st.markdown(f"<div class='cl-card'><span class='cl-cite'>{a['label']}</span> "
@@ -165,12 +165,12 @@ def render_answer(result: dict) -> None:
             st.markdown("---")
 
     if result["definitions"]:
-        with st.expander(f"📖 Defined terms in play ({len(result['definitions'])})", expanded=False):
+        with st.expander(f"Defined terms in play ({len(result['definitions'])})", expanded=False):
             for d in result["definitions"]:
                 st.markdown(f"**{d['term']}** <span class='cl-note'>({d['where']})</span>", unsafe_allow_html=True)
                 st.markdown(f"> {d['definition']}")
 
-    with st.expander("🧭 Reasoning path — how the answer was located", expanded=False):
+    with st.expander("Reasoning path — how the answer was located", expanded=False):
         st.caption("The model read each section's summary and chose which branches to open. "
                    "No embeddings or vector search were used.")
         for stp in result["steps"]:

@@ -113,7 +113,7 @@ def run_config(name: str, follow_xref: bool, resolve_defs: bool, synthesis_mode:
                      "correctness": verdict["score"], "hallucinated": verdict["hallucinated"],
                      "note": verdict["note"],
                      "expected": sorted(expected), "retrieved": sorted(retrieved)})
-        flag = " ⚠️hallucination" if verdict["hallucinated"] else ""
+        flag = " [hallucination]" if verdict["hallucinated"] else ""
         print(f"  [{name}] {q['id']:<26} recall={recall:.2f} cite={cite_acc:.2f} "
               f"correct={verdict['score']:.2f}{flag}")
     agg = {
